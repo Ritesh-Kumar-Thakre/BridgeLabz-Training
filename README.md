@@ -182,3 +182,51 @@ https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practi
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based
 
 ---
+
+## 📅 Day 10 – Core Java Scenario-Based Programs + OOP Kickoff  
+**(Date: 26-Dec-2025)**
+
+- Continued working on **advanced scenario-based Core Java problems**.
+- Applied concepts:
+  - Scanner input, variables & primitive data types  
+  - if-else & switch decision handling  
+  - for, while & do-while loops  
+  - Ternary operator usage  
+  - break & continue control flow  
+  - Clean-code formatting, indentation & meaningful comments
+
+---
+
+### 🧩 Object-Oriented Programming — Getting Started
+
+- Studied learning material:
+  - **01 – Object-Oriented Programming Fundamentals**
+- Understood core OOP concepts:
+  - Class  
+  - Object  
+  - Methods  
+  - Instance behavior  
+
+- Created a new **Git practice branch**:
+
+```
+Branch created: java-oops-practice
+```
+
+- Installed & configured **Eclipse IDE**
+- Shifted development workflow from **Notepad++ → Eclipse**
+- Performed:
+  - Java project creation in Eclipse
+  - Package creation & folder organization
+  - Class creation & execution setup
+
+- Executed OOP programs successfully in Eclipse IDE
+
+**Assignments Completed:**
+- ✅ Submission of Java Class and Object
+
+**🔗 Repository Link:**  
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice
+
+
+
