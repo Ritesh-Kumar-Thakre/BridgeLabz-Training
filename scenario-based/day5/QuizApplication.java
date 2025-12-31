@@ -28,12 +28,21 @@ public class QuizApplication{
 			System.out.println("Options "+options[i]);
 			System.out.println("Enter you answer:");
 			ans=sc.nextInt();
-			if(ans==answers[i]){
-				score+=10;
-				System.out.println("\nCorrect answer");
-			}else{
-				System.out.println("\nWrong answer");
-			}
+			 switch(ans){
+				 case 1:
+				 case 2:
+				 case 3:
+				 case 4:
+					if(ans==answers[i]){
+						score+=10;
+						System.out.println("\nCorrect answer");
+					}else{
+						System.out.println("\nWrong answer");
+					}
+					break;
+				 default:
+					System.out.println("Invalid option — Answer counted as wrong ");
+			 }
 		}
 		System.out.println("\nTotal score: "+score);
 	}
