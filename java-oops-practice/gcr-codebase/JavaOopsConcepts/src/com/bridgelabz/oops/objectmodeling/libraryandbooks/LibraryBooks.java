@@ -1,6 +1,6 @@
-package com.bridgelabz.oops.objectmodeling;
-public class LibraryBooks {
+package com.bridgelabz.oops.objectmodeling.libraryandbooks;
 
+public class LibraryBooks {
 	public static void main(String[] args) {
 		Book b1=new Book("GOT","RR Martin");
 		Book b2= new Book("Avangers","Stanly");
