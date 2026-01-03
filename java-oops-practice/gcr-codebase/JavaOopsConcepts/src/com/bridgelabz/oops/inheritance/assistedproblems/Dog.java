@@ -1,4 +1,4 @@
-package com.bridgelabz.oops.inheritance;
+package com.bridgelabz.oops.inheritance.assistedproblems;
 
 public class Dog extends Animal {
 	public Dog(String name, int age) {
