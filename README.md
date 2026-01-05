@@ -121,7 +121,11 @@ https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practi
 
 ---
 
-## 📅 Day 7 – Java Strings  
+## Week 2: Core Java Fundamentals and Object Oriented Programming
+
+---
+
+## 📅 Day 1 – Java Strings  
 **(Date: 22-Dec-2025)**
 
 - Learned:
@@ -138,7 +142,7 @@ https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practi
 
 ---
 
-## 📅 Day 8 – EXTRAS: Built‑in Functions & Java String Handling  
+## 📅 Day 2 – EXTRAS: Built‑in Functions & Java String Handling  
 **(Date: 23-Dec-2025)**
 
 - Practiced:
@@ -155,7 +159,7 @@ https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practi
 
 ---
 
-## 📅 Day 9 – Scenario‑Based Java Problems  
+## 📅 Day 3 – Scenario‑Based Java Problems  
 **(Date: 24-Dec-2025)**
 
 - Worked on real‑world Java problems applying:
@@ -183,7 +187,7 @@ https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practi
 
 ---
 
-## 📅 Day 10 – Core Java Scenario-Based Programs + OOP Kickoff  
+## 📅 Day 4 – Core Java Scenario-Based Programs + OOP Kickoff  
 **(Date: 26-Dec-2025)**
 
 - Continued working on **advanced scenario-based Core Java problems**.
@@ -228,5 +232,324 @@ Branch created: java-oops-practice
 **🔗 Repository Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice
 
+---
 
+## 📅 Day 5 – OOP Concepts: Constructors, Variables & Access Modifiers  
+**(Date: 27-Dec-2025)**
 
+- Continued learning **Object-Oriented Programming concepts**.
+- Studied material:
+  - **02 – Java Constructors, Instance vs Class Variables, Access Modifiers Concepts**
+- Understood:
+  - Constructors & object initialization
+  - Instance variables vs Class (static) variables
+  - Access Modifiers:
+    - public  
+    - private  
+    - protected  
+    - default
+- Practiced Level‑1 lab exercises based on:
+  - Constructor behavior
+  - Object creation
+  - Variable scope & access control
+
+**🔗 Link:**  
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/constructor/levelone
+
+--- 
+
+## Week 3: Object Oriented Programming and Data Structures and Algorithms
+
+---
+
+## 📅 Day 1 – Core Java Scenario‑Based Problems + OOP Keywords Practice  
+**(Date: 29-Dec-2025)**
+
+- Continued solving **Core Java real‑world scenario‑based problems**.
+
+**Scenario Problems Solved:**
+
+1️⃣ Shopkeeper’s Discount Dashboard  
+2️⃣ School Bus Attendance System  
+3️⃣ Phone Recharge Simulator  
+4️⃣ Parking Lot Gate System  
+5️⃣ The Number Guessing Game  
+
+---
+
+### 🧩 OOP — this, static, final & instanceof
+
+- Studied material:
+  - **03 – this, static, final keywords & instanceof operator Content**
+- Practiced:
+  - `this` keyword usage  
+  - static variables & methods  
+  - final keyword  
+  - instanceof operator (object type validation)
+
+**🔗 Link:**  
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction
+
+---
+
+## 📅 Day 2 – Object Modeling & Core Java Scenario-Based Problems  
+**(Date: 30-Dec-2025)**
+
+- Continued practicing **Core Java scenario-based programs**.
+- Followed structured coding approach:
+  - Proper indentation & meaningful variable names  
+  - Loops, switch & conditional logic  
+  - Modular code blocks
+
+**Scenario Problems Solved:**
+
+1️⃣ Temperature Logger  
+2️⃣ Train Reservation Queue  
+3️⃣ Sandeep’s Fitness Challenge Tracker  
+4️⃣ Movie Ticket Booking App  
+5️⃣ Rohan’s Library Reminder App  
+
+---
+
+### 🧩 Object Modeling & Design Principles
+
+- Studied material:
+  - **04 – Object Modeling, Class Diagram**
+- Understood:
+  - Object modeling approach
+  - Class diagrams & relationships
+  - Responsibility-based class design
+
+**🔗 Link:**  
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/objectmodeling
+
+---
+
+## 📅 Day 3 – Inheritance + Advanced Scenario-Based Problems  
+**(Date: 31-Dec-2025)**
+
+- Practiced real-world scenario programs with:
+  - nested loops  
+  - arrays  
+  - switch & conditional logic  
+  - break & continue usage
+
+**Scenario Problems Solved:**
+
+1️⃣ Digital Watch Simulation  
+2️⃣ Online Quiz Application  
+3️⃣ Currency Exchange Kiosk  
+4️⃣ Bus Route Distance Tracker  
+5️⃣ Festival Lucky Draw  
+
+---
+
+### 🧩 OOP – Inheritance Concepts
+
+- Studied material:
+  - **05 – Inheritance**
+- Understood:
+  - Parent–child class relationships
+  - Code reuse through inheritance
+  - Method access rules
+
+**🔗 Link:**  
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inheritance
+
+---
+
+## 📅 Day 4 – Encapsulation, Interface, Abstract Class & Polymorphism  
+**(Date: 01-Jan-2026)**
+
+- Studied structured guide on:
+  - **Approach to Solve Scenario-Based OOP Problems**
+- Practiced:
+  - Breaking problem into entities & actions
+  - Identifying:
+    - classes  
+    - attributes  
+    - behaviors (methods)
+  - Applying SRP (Single Responsibility Principle)
+
+---
+
+### 🧩 OOP — Encapsulation, Abstraction, Interface & Polymorphism
+
+- Studied material:
+  - **06 – Encapsulation, Interface, Abstract Classes, and Polymorphism**
+- Understood:
+  - Encapsulation & data hiding
+  - Abstract class design
+  - Interface contract rules
+  - Runtime polymorphism & method overriding
+
+**🔗 Link:**  
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation
+
+---
+
+## 📅 Day 5 – OOP Scenario-Based Projects + LinkedList Introduction  
+**(Date: 02-Jan-2026)**
+
+- Continued working on **real-world OOP scenario-based problem design**
+- Followed structured problem-solving approach:
+  - Identify entities, attributes, and relationships
+  - Apply constructors, encapsulation & access modifiers
+  - Use interfaces to define behavior contracts
+  - Implement polymorphism through method overriding
+  - Keep logic modular using helper methods
+
+### 🧩 Scenario-Based OOP Modules Practiced
+
+1️⃣ Hospital Patient Management System  
+2️⃣ Vehicle Rental Application  
+3️⃣ University Course Enrollment System  
+4️⃣ E-Wallet Application  
+5️⃣ Smart Home Automation System  
+
+Concepts applied across scenarios:
+
+- Classes & Object Modeling  
+- Constructors (default + parameterized)  
+- Encapsulation (private fields + getters/setters)  
+- Inheritance & abstraction  
+- Interfaces for behavior definition  
+- Polymorphism (overridden methods)  
+- Operators used in calculations (billing, rent, GPA, charges)
+
+Also practiced:
+
+- Splitting logic into reusable helper methods  
+- Clean coding & modular function design  
+
+---
+
+### 🧮 Data Structures — LinkedList (Introduction)
+
+- Studied material:
+  - **01 – Data Structure Introduction and LinkedList**
+- Understood:
+  - LinkedList node structure
+  - Memory behavior vs Arrays
+  - Real‑world use‑cases
+
+Worked on:
+
+- LinkedList basic programs
+- Level‑1 practice problems
+
+**🔗 Link:**  
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/linkedlist
+
+---
+
+## 📅 Day 6 – Advanced OOP Scenarios + Stack / Queue / HashMap  
+**(Date: 03-Jan-2026)**
+
+- Continued hands‑on system‑design oriented OOP practice
+- Focused on:
+  - Encapsulation of sensitive attributes
+  - Abstraction via interfaces
+  - Polymorphism & overridden behaviors
+  - Constructor‑driven object initialization
+
+### 🧩 Core Scenario-Based Projects Implemented
+
+1️⃣ CabbyGo – Ride‑Hailing Backend System  
+2️⃣ MyBank – Customer Account Management System  
+
+Concepts applied:
+
+- Vehicle inheritance (Mini / Sedan / SUV)
+- Interface‑based ride services
+- Polymorphic fare calculation
+- Encapsulated fare & location details
+- Base Account → Savings / Current (inheritance)
+- ITransaction interface for banking actions
+- Private balance with controlled access
+- Polymorphic interest calculation
+
+---
+
+### 🧮 Data Structures — Stack, Queue, HashMap & Hashing
+
+- Studied material:
+  - **02 – Stack, Queue, HashMap and Hashing Function**
+- Understood:
+
+- Stack — LIFO operations  
+- Queue — FIFO operations  
+- Hashing fundamentals  
+- HashMap behavior & use‑cases  
+
+Worked on:
+
+- Stack programs
+- Queue programs
+- HashMap operations
+- Basic hashing practice problems
+
+**🔗 Link:**  
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/stackqueuehashmap
+
+---
+
+# 🟢 Week 4 — Continued OOP System Design & DSA Foundations
+
+## 📅 Day 18 – CampusConnect & SwiftCart OOP Systems + Sorting Algorithms  
+**(Date: 05-Jan-2026)**
+
+- Continued working on **enterprise-style real‑world OOP scenario modules**
+- Focused on:
+  - Class modeling & inheritance
+  - Encapsulation of sensitive attributes
+  - Constructor‑based object initialization
+  - Interfaces for defining contracts
+  - Polymorphism in behavior execution
+  - Clean modular method‑based design
+
+---
+
+### 🧩 Scenario‑Based OOP Projects Practiced
+
+1️⃣ CampusConnect — College Information System  
+2️⃣ SwiftCart — Grocery Shopping & Cart Management System  
+
+#### Concepts applied across scenarios:
+
+- Base class inheritance (Person → Student / Faculty)
+- Interface‑based actions (enrollCourse(), dropCourse(), generateBill())
+- Encapsulation of grades & price computations
+- GPA calculation using operators
+- Course with assigned faculty & enrolled students list
+- Cart with product collection & total price
+- Constructor overloading for flexible initialization
+- Polymorphism in:
+  - printDetails()
+  - discount application
+- Access modifiers to restrict sensitive updates
+
+---
+
+### 🧮 Data Structures & Algorithms — Sorting Algorithms
+
+- Studied material:
+  - **03 – Sorting Algorithms**
+- Understood:
+  - Sorting fundamentals
+  - Stability & inplace behavior
+  - Time & space complexity intuition
+
+Algorithms covered & practiced:
+
+- Bubble Sort  
+- Selection Sort  
+- Insertion Sort  
+
+Hands‑on practice included:
+
+- Dry‑run tracing of iterations  
+- Writing reusable sorting methods  
+- Applying sorting on arrays & collections
+
+**🔗 Link:**  
