@@ -70,6 +70,7 @@ Material / Assignment:
 
 **🔗 Repository Structure Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice
+
 ---
 **🔗 Basic java programs Link:** 
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisites
