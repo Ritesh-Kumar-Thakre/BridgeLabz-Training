@@ -241,9 +241,38 @@ Systems Implemented:
 ```
 1️⃣ FitTrack – Your Personal Fitness Tracker
 2️⃣ EduMentor – Personalized Learning Platform
-3️⃣ PetPal – Virtual Pet Care App"
+3️⃣ PetPal – Virtual Pet Care App
 4️⃣ EventEase – Event Management Platform
 ```
 
 **🔗 Code Link:**
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day4
+
+---
+
+## 📅 Day 3 — Advanced Enterprise-Level OOP Projects  
+**(07-Jan-2026)**
+
+Systems Implemented:
+```
+1️⃣ LoanBuddy – Loan Approval Automation
+2️⃣ BookBazaar – Digital Bookstore System
+3️⃣ ParkEase – Smart Parking Management System
+```
+
+**🔗 Code Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day5
+
+---
+
+## 📅 Day 4 — Advanced Enterprise-Level OOP Projects  
+**(08-Jan-2026)**
+
+Systems Implemented:
+```
+1️⃣ MediStore – Pharmacy Inventory & Sales System
+2️⃣ TourMate – Travel Itinerary Planner
+```
+
+**🔗 Code Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day6
