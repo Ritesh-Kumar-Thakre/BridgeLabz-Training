@@ -22,7 +22,7 @@ public class PetPalApp {
 		bird1.sleep();
 		bird1.printDetails();
 		bird1.makeSound("che che che");
-		
+
 		
 	}
 }
