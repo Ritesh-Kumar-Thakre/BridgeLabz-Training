@@ -27,14 +27,14 @@ Practiced:
 - Level-1 practice problems
 
 Assignment Submitted:
-- Submission of Data Structure — LinkedList
+- 01 — Submission of Data Structure — LinkedList
   
 **🔗 Repository Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice
 
 ---
 
-**🔗 Code Link:**  
+**🔗 Assignment Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/linkedlist
 
 ---
@@ -59,9 +59,9 @@ HashMap CRUD
 Basic hashing logic
 ```
 Assignment Submitted:
-- Submission of Stack, Queue, HashMap & Hashing
+- 02 — Submission of Stack, Queue, HashMap & Hashing
 
-**🔗 Code Link:**  
+**🔗 Assignment Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/stackqueuehashmap
 
 ---
@@ -76,9 +76,6 @@ https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa
 Material:
 - 03 — Sorting Algorithms
 
-Assignment Submitted:
-- 03 — Submission of Sorting Algorithms
-
 Concepts Practiced:
 - Sorting fundamentals
 - Time complexity intuition
@@ -88,6 +85,12 @@ Worked On:
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
+
+Assignment Submitted:
+- 03 — Submission of Sorting Algorithms
+
+**🔗 Assignment Link:**  
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/sortingalgorithm
 
 ---
 
@@ -112,3 +115,8 @@ Concepts Practiced:
 Worked On:
 - Search problems
 - Performance comparison mindset
+
+**🔗 Assignment Link:**  
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/linearbinarysearch
+
+---
