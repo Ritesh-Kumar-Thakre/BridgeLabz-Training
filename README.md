@@ -56,7 +56,7 @@ Practiced:
 Material:
 - 02 — Constructors, Instance vs Class Variables & Access Modifiers
 
-**🔗 Code Link:**  
+**🔗 Assignment Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/constructor/levelone
 
 ---
@@ -74,13 +74,10 @@ Practiced:
 - final variables
 - instanceof operator
 
-Assignments:
-- Level-1 Lab Practice
-
 Material:
 - 03 — this, static, final & instanceof
 
-**🔗 Code Link:**  
+**🔗 Assignment Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction
 
 ---
@@ -106,7 +103,7 @@ Material:
 Assignment:
 - Submission of Object Oriented Design Principles
 
-**🔗 Code Link:**  
+**🔗 Assignment Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/objectmodeling
 
 ---
@@ -134,7 +131,7 @@ Scenario-Based Problems:
 5️⃣ Festival Lucky Draw
 ```
 
-**🔗 Code Link:**  
+**🔗 Assignment Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inheritance
 
 ---
@@ -166,7 +163,7 @@ Material:
 Assignment Submitted:
 - Encapsulation + Interface + Abstraction + Polymorphism
 
-**🔗 Code Link:**  
+**🔗 Assignment Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation
 
 ---
@@ -192,7 +189,7 @@ Concepts Applied:
 - Polymorphism
 - Helper method modularization
 
-**🔗 Code Link:**  
+**🔗 Problems Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day1
 
 ---
@@ -213,7 +210,7 @@ Applied:
 - Operator-based fare / interest logic
 - Polymorphic behavior overrides
 
-**🔗 Code Link:**  
+**🔗 Problems Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day2
 
 ---
@@ -229,7 +226,7 @@ Systems Implemented:
 2️⃣ SwiftCart – The Grocery Shopping App
 ```
 
-**🔗 Code Link:**
+**🔗 Problems Link:**
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day3
 
 ---
@@ -245,7 +242,7 @@ Systems Implemented:
 4️⃣ EventEase – Event Management Platform
 ```
 
-**🔗 Code Link:**
+**🔗 Problems Link:**
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day4
 
 ---
@@ -260,7 +257,7 @@ Systems Implemented:
 3️⃣ ParkEase – Smart Parking Management System
 ```
 
-**🔗 Code Link:**
+**🔗 Problems Link:**
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day5
 
 ---
@@ -274,5 +271,5 @@ Systems Implemented:
 2️⃣ TourMate – Travel Itinerary Planner
 ```
 
-**🔗 Code Link:**
+**🔗 Problems Link:**
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day6
