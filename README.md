@@ -105,15 +105,15 @@ Covered:
 Material:
 - 02 — Java Control Flows
 
-Assignment:
-- Submission of Control Flow Practices
-
 Also reviewed:
 - Training & Behaviour Guidelines
 - Leave Email Protocol
 - README maintenance instructions
 
-**🔗 Code Link:**  
+Assignment:
+- Submission of Control Flow Practices
+
+**🔗 Assignment Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
 
 ---
@@ -132,7 +132,7 @@ Material:
 Assignment:
 - Submissions on Arrays Practices
 
-**🔗 Code Link:**  
+**🔗 Assignment Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
 
 ---
@@ -152,7 +152,7 @@ Material:
 Assignment:
 - Submissions on Java Methods Practices
 
-**🔗 Code Link:**  
+**🔗 Assignment Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods
 
 ---
@@ -174,7 +174,7 @@ Material:
 Assignment:
 - Submissions on Java String Practices
 
-**🔗 Code Link:**  
+**🔗 Assignment Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings
 
 ---
@@ -195,7 +195,7 @@ Assignments:
 - Built-In Function Practice Problems
 - String Handling Practice Problems
 
-**🔗 Code Link:**  
+**🔗 Assignment Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras
 
 ---
@@ -216,7 +216,7 @@ Concepts Used:
 - break & continue
 - clean-code conventions
 
-**🔗 Code Link:**  
+**🔗 Problems Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day1
 
 ---
@@ -237,9 +237,11 @@ Material:
 - 01 — OOP Fundamentals
 
 Created new practice branch:
-- java-oops-practice
+```
+java-oops-practice
+```
 
-**🔗 Code Link:**  
+**🔗 Problems Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day2
 
 ---
@@ -259,7 +261,7 @@ Problems:
 4️⃣ School Bus Attendance System
 5️⃣ Phone Recharge Simulator
 ```
-**🔗 Code Link:**  
+**🔗 Problems Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day3
 
 ---
@@ -275,7 +277,7 @@ Problems:
 4️⃣ Movie Ticket Booking App
 5️⃣ Rohan’s Library Reminder App
 ```
-**🔗 Code Link:**  
+**🔗 Problems Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day4
 
 ---
@@ -291,5 +293,5 @@ Problems:
 4️⃣ Bus Route Distance Tracker
 5️⃣ Festival Lucky Draw
 ```
-**🔗 Code Link:**  
+**🔗 Problems Link:**  
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day5
