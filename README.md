@@ -273,3 +273,18 @@ Systems Implemented:
 
 **🔗 Problems Link:**
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day6
+
+---
+
+## 📅 Day 5 — Advanced Enterprise-Level OOP Projects  
+**(09-Jan-2026)**
+
+Systems Implemented:
+```
+1️⃣ Artify – Digital Art Marketplace
+2️⃣ FoodLoop – Restaurant Ordering System
+3️⃣ SkillForge – Online Learning Portal
+```
+
+**🔗 Problems Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day7
