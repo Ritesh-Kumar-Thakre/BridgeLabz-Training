@@ -120,3 +120,65 @@ Worked On:
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/linearbinarysearch
 
 ---
+
+## 📅 Day 3 – Algorithm Runtime Analysis & Big-O Notation  
+**(Date: 07-Jan-2026)**
+
+- Studied material:
+  - **06 – Algorithm's Runtime Analysis & Big-O Notation**
+- Learned how to analyze:
+  - Time complexity
+  - Space complexity
+  - Performance of algorithms as input size grows
+
+### 🧠 Concepts Covered
+
+- Big-O Notation
+- Best-case, average-case, and worst-case analysis
+- Common complexities:
+  - O(1), O(log n), O(n), O(n log n), O(n²), O(2ⁿ), O(n!)
+
+---
+
+Assignment Submitted:
+
+- 06 – Submission of Algorithm’s Runtime Analysis & Big-O Notation**
+
+**🔗 Assignment Link:**  
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/runtimeanalysis
+
+---
+
+## 📅 Day 4 – Scenario Based Problems  
+**(Date: 10-Jan-2026)**
+
+Problems Solved:
+```
+1️⃣ BookShelf – Library Organizer (HashMap + Linked List)
+2️⃣ BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+3️⃣ AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+```
+
+**🔗 Problems Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day1
+
+---
+
+# 📅 Week 5 — Real-World Scenario Based Problems
+
+## 📅 Day 1 – Scenario Based Problems  
+**(Date: 12-Jan-2026)**
+
+Problems Solved:
+```
+1️⃣ CallCenter – Customer Queue Manager (Queue + HashMap)
+2️⃣ TrainCompanion – Compartment Navigation System (Doubly LinkedList)
+3️⃣ TextEditor – Undo/Redo Functionality (Stack)
+4️⃣ TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
+5️⃣ BookShelf – Library Organizer (HashMap + Linked List)
+```
+
+**🔗 Problems Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day2
+
+---
