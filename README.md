@@ -215,7 +215,7 @@ https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practi
 
 ---
 
-## 📅 Week 4 — More Scenario‑Based Problems
+# 📅 Week 4 — More Scenario‑Based Problems
 
 ## 📅 Day 1 — Advanced Enterprise-Level OOP Projects  
 **(05-Jan-2026)**
@@ -288,3 +288,22 @@ Systems Implemented:
 
 **🔗 Problems Link:**
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day7
+
+---
+
+# 📅 Week 5 — More Scenario‑Based Problems
+
+## 📅 Day 1 — Advanced Enterprise-Level OOP Projects  
+**(12-Jan-2026)**
+
+Systems Implemented:
+```
+1️⃣ HomeNest – Smart Home Device Manage
+2️⃣ BudgetWise – Personal Finance Tracker
+3️⃣ GameBox – Mobile Game Distribution Platform
+```
+
+**🔗 Problems Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day8
+
+---
