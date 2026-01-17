@@ -182,3 +182,16 @@ Problems Solved:
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day2
 
 ---
+
+## 📅 Day 2 – Scenario Based Problems  
+**(Date: 13-Jan-2026)**
+
+Problems Solved:
+```
+1️⃣ SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+2️⃣ ParcelTracker – Delivery Chain Management (Singly Linked List)
+3️⃣ ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
+```
+
+**🔗 Problems Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day3
