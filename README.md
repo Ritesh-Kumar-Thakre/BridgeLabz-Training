@@ -307,3 +307,15 @@ Systems Implemented:
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day8
 
 ---
+
+## 📅 Day 2 — Advanced Enterprise-Level OOP Projects  
+**(13-Jan-2026)**
+
+Systems Implemented:
+```
+1️⃣ PayXpress – Utility Bill Payment System
+2️⃣ Bird Sanctuary
+```
+
+**🔗 Problems Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day9
