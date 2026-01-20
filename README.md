@@ -319,3 +319,17 @@ Systems Implemented:
 
 **🔗 Problems Link:**
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day9
+
+---
+
+## 📅 Day 3 — Advanced Enterprise-Level OOP Projects  
+**(17-Jan-2026)**
+
+Systems Implemented:
+```
+1️⃣ GeoMeasure
+2️⃣ Bag-n-Ball Organizer
+```
+
+**🔗 Problems Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day10
