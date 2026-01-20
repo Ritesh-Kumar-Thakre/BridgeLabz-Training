@@ -195,3 +195,51 @@ Problems Solved:
 
 **🔗 Problems Link:**
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day3
+
+---
+
+## 📅 Day 3 – Scenario Based Problems  
+**(Date: 15-Jan-2026)**
+
+Problems Solved:
+```
+1️⃣ HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
+2️⃣ SmartShelf – Real-Time Book Arrangement (Insertion Sort)
+3️⃣ ZipZipMart – Daily Sales Summary Report (Merge Sort)
+4️⃣ EventManager – Ticket Price Optimizer (Quick Sort)
+5️⃣ ExamCell – Student Rank Generator (Merge Sort)
+```
+
+**🔗 Problems Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day4
+
+---
+
+## 📅 Day 4 – Scenario Based Problems  
+**(Date: 16-Jan-2026)**
+
+Problems Solved:
+```
+1️⃣ RoboWarehouse – Shelf Loading Robot (Insertion Sort)
+2️⃣ CinemaHouse – Movie Time Sorting (Bubble Sort)
+3️⃣ CropMonitor – Sensor Data Ordering (Quick Sort)
+```
+
+**🔗 Problems Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day5
+
+---
+
+## 📅 Day 5 – Scenario Based Problems  
+**(Date: 17-Jan-2026)**
+
+Problems Solved:
+```
+1️⃣ ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+2️⃣ FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+3️⃣ IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+4️⃣ SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+```
+
+**🔗 Problems Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day6
