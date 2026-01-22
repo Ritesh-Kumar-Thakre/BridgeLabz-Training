@@ -276,3 +276,17 @@ Problems Solved:
 **🔗 Problems Link:**
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day8
 
+---
+
+## 📅 Day 3 – Scenario Based Problems  
+**(Date: 21-Jan-2026)**
+
+Problems Solved:
+```
+1️⃣ TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
+2️⃣ MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
+```
+
+**🔗 Problems Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day9
+
