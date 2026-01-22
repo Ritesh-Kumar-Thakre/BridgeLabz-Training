@@ -333,3 +333,18 @@ Systems Implemented:
 
 **🔗 Problems Link:**
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day10
+
+---
+
+# 📅 Week 6 — More Scenario‑Based Problems
+
+## 📅 Day 1 — Advanced Enterprise-Level OOP Projects  
+**(19-Jan-2026)**
+
+Systems Implemented:
+```
+1️⃣ Address Book System
+```
+
+**🔗 Problems Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day11
