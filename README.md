@@ -243,3 +243,36 @@ Problems Solved:
 
 **🔗 Problems Link:**
 https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day6
+
+---
+
+# 📅 Week 6 — Real-World Scenario Based Problems
+
+## 📅 Day 1 – Scenario Based Problems  
+**(Date: 19-Jan-2026)**
+
+Problems Solved:
+```
+1️⃣ EduResults – Rank Sheet Generator (Merge Sort)
+2️⃣ FlashDealz – Product Sorting by Discount (Quick Sort)
+3️⃣ FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+```
+
+**🔗 Problems Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day7
+
+---
+
+## 📅 Day 2 – Scenario Based Problems  
+**(Date: 20-Jan-2026)**
+
+Problems Solved:
+```
+1️⃣ MovieTime – Theater Show Listings (Insertion Sort)
+2️⃣ FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+3️⃣ GamerZone – High Score Ranking System (Quick Sort)
+```
+
+**🔗 Problems Link:**
+https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day8
+
