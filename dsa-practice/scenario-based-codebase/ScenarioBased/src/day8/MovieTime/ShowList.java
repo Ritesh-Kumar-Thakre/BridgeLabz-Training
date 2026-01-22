@@ -6,7 +6,7 @@ public class ShowList {
 	ArrayList<Show> shows = new ArrayList<>();
 
 	public void insertionSort(ArrayList<Show> shows) {
-		for (int i = 0; i < shows.size(); i++) {
+		for (int i = 1; i < shows.size(); i++) {
 			Show currentShow = shows.get(i);
 			int prev = i - 1;
 			while (prev >= 0 && shows.get(prev).time.isAfter(currentShow.time)) {
