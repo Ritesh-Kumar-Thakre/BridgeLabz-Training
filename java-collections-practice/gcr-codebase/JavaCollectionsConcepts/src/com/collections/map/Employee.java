@@ -1,4 +1,4 @@
-package com.collections.Map;
+package com.collections.map;
 
 public class Employee {
 	String name;
