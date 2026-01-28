@@ -54,6 +54,15 @@
 | **D5** | 02-Jan-2026 | DSA Basics | **LinkedList**: Node structure & *Scenario-based problems* |
 | **D6** | 03-Jan-2026 | DS Basics II | **Stack (LIFO)**, **Queue (FIFO)**, & *Scenario-based problems* |
 
+### 🟢 Week 4: Performance Analysis & Enterprise Modeling
+| Day | Date | Focus Topic | Core Implementation / Scenarios |
+| :--- | :--- | :--- | :--- |
+| **D1** | 05-Jan-2026 | Sorting I | **Bubble & Insertion Sort** & *Scenario-based problems* |
+| **D2** | 06-Jan-2026 | Searching | **Linear & Binary Search** & *Scenario-based problems* |
+| **D3** | 07-Jan-2026 | Complexity | **Big-O Notation** & *Scenario-based problems* |
+| **D4** | 08-Jan-2026 | Systems I | *Scenario-based problems* |
+| **D5** | 09-Jan-2026 | Generics | **Java Generics Intro** & *Scenario-based problems* |
+
 ---
 
 ## 🛠️ Professional Skill Matrix
