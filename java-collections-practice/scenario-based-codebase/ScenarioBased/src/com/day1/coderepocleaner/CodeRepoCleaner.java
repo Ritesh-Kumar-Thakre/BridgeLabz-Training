@@ -1,4 +1,4 @@
-package com.day01.coderepocleaner;
+package com.day1.coderepocleaner;
 
 import java.io.*;
 import java.nio.file.*;

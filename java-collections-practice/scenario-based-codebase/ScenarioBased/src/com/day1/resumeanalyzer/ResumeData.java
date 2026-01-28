@@ -1,4 +1,4 @@
-package com.day01.resumeanalyzer;
+package com.day1.resumeanalyzer;
 
 // holds one candidate info
 public class ResumeData {

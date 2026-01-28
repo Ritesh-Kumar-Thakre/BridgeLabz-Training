@@ -1,4 +1,4 @@
-package com.day01.travellog;
+package com.day1.travellog;
 
 import java.io.Serializable;
 import java.time.LocalDate;

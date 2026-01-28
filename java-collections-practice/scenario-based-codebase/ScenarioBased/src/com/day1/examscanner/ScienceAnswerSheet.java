@@ -1,4 +1,4 @@
-package com.day01.examscanner;
+package com.day1.examscanner;
 
 // example for Science subject
 public class ScienceAnswerSheet implements AnswerSheet {

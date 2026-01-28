@@ -12,7 +12,7 @@ The tool CodeRepoCleaner should:
 ● Allow filtering files based on size, date modified, etc. using streams
 */
 
-package com.day01.coderepocleaner;
+package com.day1.coderepocleaner;
 
 import java.io.IOException;
 

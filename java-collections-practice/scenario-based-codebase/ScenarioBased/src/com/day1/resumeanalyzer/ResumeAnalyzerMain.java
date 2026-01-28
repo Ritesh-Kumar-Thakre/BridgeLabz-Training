@@ -13,7 +13,7 @@ The system should support:
 ● Skipping resumes with invalid formats using exception handling
 */
 
-package com.day01.resumeanalyzer;
+package com.day1.resumeanalyzer;
 
 public class ResumeAnalyzerMain {
 

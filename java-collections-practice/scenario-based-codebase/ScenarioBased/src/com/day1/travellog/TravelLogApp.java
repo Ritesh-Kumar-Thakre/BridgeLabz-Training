@@ -12,7 +12,7 @@ The system must support both reading/writing trip entries from files and summari
 Java Collections.
 */
 
-package com.day01.travellog;
+package com.day1.travellog;
 
 import java.io.IOException;
 import java.time.LocalDate;

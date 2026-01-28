@@ -12,7 +12,7 @@ List<String>>`
 ● Handles missing/invalid lines gracefully using exception handling
 */
 
-package com.day01.feedbackguru;
+package com.day1.feedbackguru;
 
 public class FeedbackGuruMain {
 	public static void main(String[] args) {

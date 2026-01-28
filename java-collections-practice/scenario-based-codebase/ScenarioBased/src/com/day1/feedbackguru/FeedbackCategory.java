@@ -1,4 +1,4 @@
-package com.day01.feedbackguru;
+package com.day1.feedbackguru;
 
 // feedback categories
 public enum FeedbackCategory {

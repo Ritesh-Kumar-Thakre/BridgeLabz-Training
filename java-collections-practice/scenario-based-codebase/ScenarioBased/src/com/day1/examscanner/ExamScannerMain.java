@@ -12,7 +12,7 @@ ScienceAnswerSheet)
 ● Detect formatting issues using Regex (e.g., extra/missing commas, invalid options)
 */
 
-package com.day01.examscanner;
+package com.day1.examscanner;
 
 public class ExamScannerMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.day01.examscanner;
+package com.day1.examscanner;
 
 // base for different subjects
 public interface AnswerSheet {
