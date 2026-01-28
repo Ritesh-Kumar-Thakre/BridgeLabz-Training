@@ -1,6 +1,6 @@
 # 🗂️ BridgeLabz Training — Data Structures & Algorithms Practice
 
-## Branch: [java-dsa-practice](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice)
+**Branch: [java-dsa-practice](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice)
 
 ---
 
