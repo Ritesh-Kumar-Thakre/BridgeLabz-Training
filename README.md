@@ -240,5 +240,22 @@ Problems Solved:
 ```
 1️⃣ TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
 2️⃣ MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
+
+BST:
+1️⃣ University's Digital Record System
+2️⃣ E-Commerce Product Inventory
+3️⃣ Music App - Organize Songs by Track ID
+```
+---
+
+## 📅 Day 4 – [Scenario Based Problems - Day10](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day10)
+**(Date: 22-Jan-2026)**
+
+Problems Solved:
+```
+AVL Tree:
+1️⃣ Gaming App - Real-Time Leaderboard
+2️⃣ Online Ticket Booking by Time
+3️⃣ Hospital Queue Management
 ```
 ---
