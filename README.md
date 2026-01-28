@@ -128,11 +128,11 @@
 
 ### Projects Practiced
 ```
-1️⃣ ResumeAnalyzer  
-2️⃣ TravelLog  
-3️⃣ FeedbackGuru  
-4️⃣ CodeRepoCleaner  
-5️⃣ ExamScanner    
+1️⃣ ResumeAnalyzer – Smart Resume Filtering System 
+2️⃣ TravelLog – Trip Organizer for Backpackers
+3️⃣ FeedbackGuru – Smart Survey Analyzer 
+4️⃣ CodeRepoCleaner – Java File Scanner and Organizer
+5️⃣ ExamScanner – Digital Answer Sheet Validator 
 ```
 ---
 
@@ -149,10 +149,10 @@
 
 ### Projects Practiced
 ```
-1️⃣ MedInventory  
-2️⃣ ChatLogParser  
-3️⃣ SongVault  
-4️⃣ ExamResultUploader  
-5️⃣ DealTracker
+1️⃣ MedInventory – Smart Hospital Inventory Tracker 
+2️⃣ ChatLogParser – Messaging Pattern Analyzer
+3️⃣ SongVault – Personal Music Library Manager
+4️⃣ ExamResultUploader – Bulk Marks Processing
+5️⃣ DealTracker – E-Commerce Discount Validator
 ```
 ---
