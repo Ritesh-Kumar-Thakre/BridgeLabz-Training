@@ -35,8 +35,6 @@
 | **D5** | 19-Dec-2025 | Arrays | 1D Array Traversal, Average, & Max-Min algorithms |
 | **D6** | 20-Dec-2025 | Methods | Modular Design, Parameterized Methods, Helper Method Patterns |
 
----
-
 ### 🟢 Week 2: String Handling & OOP Kickoff
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
 | :--- | :--- | :--- | :--- |
@@ -45,6 +43,16 @@
 | **D3** | 24-Dec-2025 | Logic Building | *Scenario-based problems* |
 | **D4** | 26-Dec-2025 | OOP Kickoff | **Eclipse IDE Migration**; Classes & Object Instance Behavior |
 | **D5** | 27-Dec-2025 | Constructors | Default/Parameterized Constructors & Variable Scopes |
+
+### 🟢 Week 3: OOAD & Data Structure Foundations
+| Day | Date | Focus Topic | Core Implementation / Scenarios |
+| :--- | :--- | :--- | :--- |
+| **D1** | 29-Dec-2025 | Keywords | `this`, `static`, `final`, & `instanceof` Lab Exercises |
+| **D2** | 30-Dec-2025 | Modeling | **Object Modeling**: Entity Identification & SRP Principle |
+| **D3** | 31-Dec-2025 | Inheritance | Parent-Child Relationships & Code Reusability patterns |
+| **D4** | 01-Jan-2026 | OOP Pillars | Encapsulation, Abstract Classes, & Interfaces (IPayable) |
+| **D5** | 02-Jan-2026 | DSA Basics | **LinkedList**: Node structure & *Scenario-based problems* |
+| **D6** | 03-Jan-2026 | DS Basics II | **Stack (LIFO)**, **Queue (FIFO)**, & *Scenario-based problems* |
 
 ---
 
