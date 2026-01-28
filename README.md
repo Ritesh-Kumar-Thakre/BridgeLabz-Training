@@ -84,6 +84,16 @@
 
 ---
 
+## 🧠 Computational Complexity Benchmark
+| Algorithm | Best Case | Worst Case | Primary Real-World Application |
+| :--- | :--- | :--- | :--- |
+| **Binary Search** | $O(1)$ | $O(\log n)$ | Fast lookup in E-commerce SKU Inventory |
+| **Merge Sort** | $O(n \log n)$ | $O(n \log n)$ | Merging district-wise state rank lists |
+| **Quick Sort** | $O(n \log n)$ | $O(n^2)$ | Large-scale real-time flash deal sorting |
+| **Bubble Sort** | $O(n)$ | $O(n^2)$ | Sorting small patient groups by criticality |
+
+---
+
 ## 🛠️ Professional Skill Matrix
 * **Development:** Java 21 LTS, OpenJDK, Eclipse IDE, Notepad++.
 * **Core Skills:** OOAD, SOLID Principles (SRP), Clean Code Standards.
