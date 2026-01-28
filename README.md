@@ -72,6 +72,16 @@
 | **D4** | 16-Jan-2026 | Collections | **Java Collections Intro** & *Scenario-based problems* |
 | **D5** | 17-Jan-2026 | Logic Lab | *Scenario-based problems* |
 
+### 🟢 Week 6: Modern Java & Advanced DSA
+| Day | Date | Focus Topic | Core Implementation / Scenarios |
+| :--- | :--- | :--- | :--- |
+| **D1** | 19-Jan-2026 | Java Streams | Java Streams & *Scenario-based problems* |
+| **D2** | 20-Jan-2026 | Exceptions |  Robust **Exception Handling** strategies & *Scenario-based problems* |
+| **D3** | 21-Jan-2026 | Validation | **Regex** & **JUnit** & **Binary Search Trees (BST)** *Scenario-based problems* |
+| **D4** | 22-Jan-2026 | Metadata | **Annotations & Reflection** & **AVL Trees** *Scenario-based problems* |
+| **D5** | 23-Jan-2026 | CSV Data Handling | CSV Data Handling & *Scenario-based problems* |
+| **D6** | 24-Jan-2026 | JSON Data | JSON Data & *Scenario-based problems* |
+
 ---
 
 ## 🛠️ Professional Skill Matrix
