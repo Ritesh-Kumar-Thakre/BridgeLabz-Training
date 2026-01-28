@@ -63,6 +63,15 @@
 | **D4** | 08-Jan-2026 | Systems I | *Scenario-based problems* |
 | **D5** | 09-Jan-2026 | Generics | **Java Generics Intro** & *Scenario-based problems* |
 
+### 🟢 Week 5: Advanced Sorting & System Integration
+| Day | Date | Focus Topic | Core Implementation / Scenarios |
+| :--- | :--- | :--- | :--- |
+| **D1** | 12-Jan-2026 | DS Scenarios | *Scenario-based problems* |
+| **D2** | 13-Jan-2026 | System Design | *Scenario-based problems* 
+| **D3** | 15-Jan-2026 | Sorting II | **Merge Sort** & **Quick Sort** & *Scenario-based problems* |
+| **D4** | 16-Jan-2026 | Collections | **Java Collections Intro** & *Scenario-based problems* |
+| **D5** | 17-Jan-2026 | Logic Lab | *Scenario-based problems* |
+
 ---
 
 ## 🛠️ Professional Skill Matrix
