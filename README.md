@@ -4,7 +4,7 @@
 
 ---
 
-# 🟢 Week 6 – Java Collections Practice Begin
+# 🟢 Week 5 – Java Collections Practice Begin
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-# 🟢 Week 7 – Java Collections Framework
+# 🟢 Week 6 – Java Collections Framework
 
 ---
 
@@ -47,7 +47,7 @@
 
 ---
 
-# 🟢 Week 8 – Java Streams, Exception Handling, Regex & JUnit, Annotations & Reflection
+# 🟢 Week 7 – Java Streams, Exception Handling, Regex & JUnit, Annotations & Reflection
 
 ---
 
