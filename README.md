@@ -23,6 +23,20 @@
 
 ---
 
+## 📅 Chronological Training Log
+
+### 🟢 Week 1: Procedural Mastery & Environment Setup
+| Day | Date | Focus Topic | Core Implementation / Scenarios |
+| :--- | :--- | :--- | :--- |
+| **D1** | 15-Dec-2025 | Orientation | Program Roadmap, Maker Plan, Git Bash & Notepad++ Setup |
+| **D2** | 16-Dec-2025 | Git Mastery | Repository Structure, Init, Status, Add, Commit, Push |
+| **D3** | 17-Dec-2025 | Java Elements | Variables, Literals, Data Types, & Scanner Input Handling |
+| **D4** | 18-Dec-2025 | Control Flow | Decision Making (if/else, switch) & Loop Structures |
+| **D5** | 19-Dec-2025 | Arrays | 1D Array Traversal, Average, & Max-Min algorithms |
+| **D6** | 20-Dec-2025 | Methods | Modular Design, Parameterized Methods, Helper Method Patterns |
+
+---
+
 ## 🛠️ Professional Skill Matrix
 * **Development:** Java 21 LTS, OpenJDK, Eclipse IDE, Notepad++.
 * **Core Skills:** OOAD, SOLID Principles (SRP), Clean Code Standards.
