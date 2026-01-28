@@ -1,14 +1,14 @@
-# BridgeLabz Training — Data Structures & Algorithms Practice
+# 🗂️ BridgeLabz Training — Data Structures & Algorithms Practice
 
-## Branch: dsa-practice
-
----
-
-# 📅 Week 3 — DSA Foundations Begin
+## Branch: [java-dsa-practice](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice)
 
 ---
 
-## 📅 Day 1 — LinkedList Introduction  
+# 🟢 Week 3 — DSA Foundations Begin
+
+---
+
+## 📅 Day 1 — [LinkedList Introduction](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/linkedlist)
 **(02-Jan-2026)**
 
 Material:
@@ -28,18 +28,10 @@ Practiced:
 
 Assignment Submitted:
 - 01 — Submission of Data Structure — LinkedList
-  
-**🔗 Repository Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice
 
 ---
 
-**🔗 Assignment Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/linkedlist
-
----
-
-## 📅 Day 2 — Stack, Queue, HashMap & Hashing  
+## 📅 Day 2 — [Stack, Queue, HashMap & Hashing](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/stackqueuehashmap) 
 **(03-Jan-2026)**
 
 Material:
@@ -61,16 +53,13 @@ Basic hashing logic
 Assignment Submitted:
 - 02 — Submission of Stack, Queue, HashMap & Hashing
 
-**🔗 Assignment Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/stackqueuehashmap
+---
+
+# 🟢 Week 4 — Sorting, Searching & Real-World Scenario Problems
 
 ---
 
-# 📅 Week 4 — Sorting, Searching & Real-World Scenario Problems
-
----
-
-## 📅 Day 1 — Sorting Algorithms  
+## 📅 Day 1 — [Sorting Algorithms](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/sortingalgorithm)
 **(05-Jan-2026)**
 
 Material:
@@ -89,12 +78,9 @@ Worked On:
 Assignment Submitted:
 - 03 — Submission of Sorting Algorithms
 
-**🔗 Assignment Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/sortingalgorithm
-
 ---
 
-## 📅 Day 2 — Linear & Binary Search + Advanced IO Utilities  
+## 📅 Day 2 — [Linear & Binary Search + Advanced IO Utilities](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/linearbinarysearch)
 **(06-Jan-2026)**
 
 Material:
@@ -116,12 +102,9 @@ Worked On:
 - Search problems
 - Performance comparison mindset
 
-**🔗 Assignment Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/linearbinarysearch
-
 ---
 
-## 📅 Day 3 – Algorithm Runtime Analysis & Big-O Notation  
+## 📅 Day 3 – [Algorithm Runtime Analysis & Big-O Notation](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/runtimeanalysis) 
 **(Date: 07-Jan-2026)**
 
 - Studied material:
@@ -141,15 +124,11 @@ https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa
 ---
 
 Assignment Submitted:
-
 - 06 – Submission of Algorithm’s Runtime Analysis & Big-O Notation**
-
-**🔗 Assignment Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/runtimeanalysis
 
 ---
 
-## 📅 Day 4 – Scenario Based Problems  
+## 📅 Day 4 – [Scenario Based Problems - Day1](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day1)  
 **(Date: 10-Jan-2026)**
 
 Problems Solved:
@@ -159,14 +138,11 @@ Problems Solved:
 3️⃣ AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
 ```
 
-**🔗 Problems Link:**
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day1
-
 ---
 
-# 📅 Week 5 — Real-World Scenario Based Problems
+# 🟢 Week 5 — Real-World Scenario Based Problems
 
-## 📅 Day 1 – Scenario Based Problems  
+## 📅 Day 1 – [Scenario Based Problems - Day2](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day2)
 **(Date: 12-Jan-2026)**
 
 Problems Solved:
@@ -178,12 +154,9 @@ Problems Solved:
 5️⃣ BookShelf – Library Organizer (HashMap + Linked List)
 ```
 
-**🔗 Problems Link:**
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day2
-
 ---
 
-## 📅 Day 2 – Scenario Based Problems  
+## 📅 Day 2 – [Scenario Based Problems - Day3](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day3)
 **(Date: 13-Jan-2026)**
 
 Problems Solved:
@@ -193,12 +166,9 @@ Problems Solved:
 3️⃣ ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
 ```
 
-**🔗 Problems Link:**
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day3
-
 ---
 
-## 📅 Day 3 – Scenario Based Problems  
+## 📅 Day 3 – [Scenario Based Problems - Day4](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day4)
 **(Date: 15-Jan-2026)**
 
 Problems Solved:
@@ -210,12 +180,9 @@ Problems Solved:
 5️⃣ ExamCell – Student Rank Generator (Merge Sort)
 ```
 
-**🔗 Problems Link:**
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day4
-
 ---
 
-## 📅 Day 4 – Scenario Based Problems  
+## 📅 Day 4 – [Scenario Based Problems - Day5](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day5)
 **(Date: 16-Jan-2026)**
 
 Problems Solved:
@@ -225,12 +192,9 @@ Problems Solved:
 3️⃣ CropMonitor – Sensor Data Ordering (Quick Sort)
 ```
 
-**🔗 Problems Link:**
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day5
-
 ---
 
-## 📅 Day 5 – Scenario Based Problems  
+## 📅 Day 5 – [Scenario Based Problems - Day6](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day6)
 **(Date: 17-Jan-2026)**
 
 Problems Solved:
@@ -241,14 +205,11 @@ Problems Solved:
 4️⃣ SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
 ```
 
-**🔗 Problems Link:**
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day6
-
 ---
 
-# 📅 Week 6 — Real-World Scenario Based Problems
+# 🟢 Week 6 — Real-World Scenario Based Problems
 
-## 📅 Day 1 – Scenario Based Problems  
+## 📅 Day 1 – [Scenario Based Problems - Day7](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day7) 
 **(Date: 19-Jan-2026)**
 
 Problems Solved:
@@ -258,12 +219,9 @@ Problems Solved:
 3️⃣ FitnessTracker – Daily Step Count Ranking (Bubble Sort)
 ```
 
-**🔗 Problems Link:**
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day7
-
 ---
 
-## 📅 Day 2 – Scenario Based Problems  
+## 📅 Day 2 – [Scenario Based Problems - Day8](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day8)
 **(Date: 20-Jan-2026)**
 
 Problems Solved:
@@ -273,12 +231,9 @@ Problems Solved:
 3️⃣ GamerZone – High Score Ranking System (Quick Sort)
 ```
 
-**🔗 Problems Link:**
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day8
-
 ---
 
-## 📅 Day 3 – Scenario Based Problems  
+## 📅 Day 3 – [Scenario Based Problems - Day9](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day9)
 **(Date: 21-Jan-2026)**
 
 Problems Solved:
@@ -286,7 +241,4 @@ Problems Solved:
 1️⃣ TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
 2️⃣ MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
 ```
-
-**🔗 Problems Link:**
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day9
-
+---
