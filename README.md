@@ -1,10 +1,10 @@
-# BridgeLabz Training — Core Java Practice Progress
+# 🗂️ BridgeLabz Training — Core Java Practice Progress
 
-## Branch: core-java-practice
+**Branch: [core-java-practice](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice)**
 
 ---
 
-# 📅 Week 1 — Git, GitHub & Core Java Fundamentals
+# 🟢 Week 1 — Git, GitHub & Core Java Fundamentals
 
 ---
 
@@ -32,12 +32,13 @@ Activities:
 Assignment Posted:
 - Practice Problem
 
-**🔗 Repository Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training
+**[🔗 Repository Link](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training)**
+
+[Basic java programs Link](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisites)
 
 ---
 
-## 📅 Day 2 — Git Setup, Repo Structure & Programming Elements  
+## 📅 Day 2 — Git Setup, Repo Structure & Programming Elements
 **(16-Dec-2025)**
 
 - Configured Git & GitHub repository
@@ -68,16 +69,9 @@ Material / Assignment:
 - 01 — Java Programming Elements
 - Submission of Programming Elements Practices
 
-**🔗 Repository Structure Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice
-
----
-**🔗 Basic java programs Link:** 
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisites
-
 ---
 
-## 📅 Day 3 — Programming Elements  
+## 📅 Day 3 — [Programming Elements](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)  
 **(17-Dec-2025)**
 
 Topics:
@@ -89,12 +83,9 @@ Completed:
 - Level-1 lab exercises
 - Submitted & pushed programs
 
-**🔗 Code Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
-
 ---
 
-## 📅 Day 4 — Control Flow  
+## 📅 Day 4 — [Control Flow](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)  
 **(18-Dec-2025)**
 
 Covered:
@@ -113,12 +104,9 @@ Also reviewed:
 Assignment:
 - Submission of Control Flow Practices
 
-**🔗 Assignment Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
-
 ---
 
-## 📅 Day 5 — Arrays  
+## 📅 Day 5 — [Arrays](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 **(19-Dec-2025)**
 
 Concepts:
@@ -132,12 +120,9 @@ Material:
 Assignment:
 - Submissions on Arrays Practices
 
-**🔗 Assignment Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
-
 ---
 
-## 📅 Day 6 — Methods  
+## 📅 Day 6 — [Methods](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 **(20-Dec-2025)**
 
 Topics:
@@ -152,16 +137,13 @@ Material:
 Assignment:
 - Submissions on Java Methods Practices
 
-**🔗 Assignment Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods
+---
+
+# 🟢 Week 2 — Strings, Built-in Functions & Scenario-Based Problems
 
 ---
 
-# 📅 Week 2 — Strings, Built-in Functions & Scenario-Based Problems
-
----
-
-## 📅 Day 1 — Java Strings  
+## 📅 Day 1 — [Java Strings](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 **(22-Dec-2025)**
 
 Concepts:
@@ -174,12 +156,9 @@ Material:
 Assignment:
 - Submissions on Java String Practices
 
-**🔗 Assignment Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings
-
 ---
 
-## 📅 Day 2 — Extras: Built-in Functions & String Handling  
+## 📅 Day 2 — [Extras: Built-in Functions & String Handling](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 **(23-Dec-2025)**
 
 Practiced:
@@ -195,12 +174,9 @@ Assignments:
 - Built-In Function Practice Problems
 - String Handling Practice Problems
 
-**🔗 Assignment Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras
-
 ---
 
-## 📅 Day 3 — Scenario-Based Core Java Problems  
+## 📅 Day 3 — [Scenario-Based Core Java Problems - Day1](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day1)
 **(24-Dec-2025)**
 
 Problems Implemented:
@@ -216,12 +192,9 @@ Concepts Used:
 - break & continue
 - clean-code conventions
 
-**🔗 Problems Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day1
-
 ---
 
-## 📅 Day 4 — Advanced Scenario-Based Problems + OOP Kickoff  
+## 📅 Day 4 — [Advanced Scenario-Based Problems - Day2](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day2) + OOP Kickoff  
 **(26-Dec-2025)**
 
 Problems:
@@ -241,16 +214,13 @@ Created new practice branch:
 java-oops-practice
 ```
 
-**🔗 Problems Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day2
+---
+
+# 🟢 Week 3 — More Scenario-Based Problems  
 
 ---
 
-# 📅 Week 3 — More Scenario-Based Problems  
-
----
-
-## 📅 Day 1 — Scenario-Based Problems  
+## 📅 Day 1 — [Scenario-Based Core Java Problems - Day3](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day3)
 **(29-Dec-2025)**
 
 Problems:
@@ -261,12 +231,10 @@ Problems:
 4️⃣ School Bus Attendance System
 5️⃣ Phone Recharge Simulator
 ```
-**🔗 Problems Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day3
 
 ---
 
-## 📅 Day 2 — Scenario-Based Problems  
+## 📅 Day 2 — [Scenario-Based Core Java Problems - Day4](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day4)
 **(30-Dec-2025)**
 
 Problems:
@@ -277,12 +245,10 @@ Problems:
 4️⃣ Movie Ticket Booking App
 5️⃣ Rohan’s Library Reminder App
 ```
-**🔗 Problems Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day4
 
 ---
 
-## 📅 Day 3 — Scenario-Based Problems  
+## 📅 Day 3 — [Scenario-Based Core Java Problems - Day5](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day5)
 **(31-Dec-2025)**
 
 Problems:
@@ -293,5 +259,4 @@ Problems:
 4️⃣ Bus Route Distance Tracker
 5️⃣ Festival Lucky Draw
 ```
-**🔗 Problems Link:**  
-https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day5
+---
