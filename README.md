@@ -37,6 +37,17 @@
 
 ---
 
+### 🟢 Week 2: String Handling & OOP Kickoff
+| Day | Date | Focus Topic | Core Implementation / Scenarios |
+| :--- | :--- | :--- | :--- |
+| **D1** | 22-Dec-2025 | Java Strings | Immutability, String Pool, & String Manipulation Methods |
+| **D2** | 23-Dec-2025 | Built-in API | Common Built-in Functions & Java Date/Time Library |
+| **D3** | 24-Dec-2025 | Logic Building | *Scenario-based problems* |
+| **D4** | 26-Dec-2025 | OOP Kickoff | **Eclipse IDE Migration**; Classes & Object Instance Behavior |
+| **D5** | 27-Dec-2025 | Constructors | Default/Parameterized Constructors & Variable Scopes |
+
+---
+
 ## 🛠️ Professional Skill Matrix
 * **Development:** Java 21 LTS, OpenJDK, Eclipse IDE, Notepad++.
 * **Core Skills:** OOAD, SOLID Principles (SRP), Clean Code Standards.
