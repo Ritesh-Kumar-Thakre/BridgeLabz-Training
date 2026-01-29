@@ -1,6 +1,6 @@
 # 🏛️ BridgeLabz Professional Training: Java Full-Stack Master Ledger
 
-[![Capgemini](https://img.shields.io/badge/Client-Capgemini-blue?style=for-the-badge)](https://www.capgemini.com/)
+[![Capgemini](https://img.shields.io/badge/Company-Capgemini-blue?style=for-the-badge)](https://www.capgemini.com/)
 [![Training Partner](https://img.shields.io/badge/Partner-BridgeLabz-red?style=for-the-badge)](https://www.bridgelabz.com/)
 ![Batch](https://img.shields.io/badge/Batch-Batch--1--CG-yellow?style=for-the-badge)
 [![Java Version](https://img.shields.io/badge/Java-21--LTS-orange?style=for-the-badge&logo=openjdk)](https://openjdk.org/projects/jdk/21/)
@@ -30,57 +30,58 @@
 | :--- | :--- | :--- | :--- |
 | **D1** | 15-Dec-2025 | Orientation | Program Roadmap, Maker Plan, Git Bash & Notepad++ Setup |
 | **D2** | 16-Dec-2025 | Git Mastery | Repository Structure, Init, Status, Add, Commit, Push |
-| **D3** | 17-Dec-2025 | Java Elements | Variables, Literals, Data Types, & Scanner Input Handling |
-| **D4** | 18-Dec-2025 | Control Flow | Decision Making (if/else, switch) & Loop Structures |
-| **D5** | 19-Dec-2025 | Arrays | 1D Array Traversal, Average, & Max-Min algorithms |
-| **D6** | 20-Dec-2025 | Methods | Modular Design, Parameterized Methods, Helper Method Patterns |
+| **D3** | 17-Dec-2025 | [Java Elements](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements) | Variables, Literals, Data Types, & Scanner Input Handling |
+| **D4** | 18-Dec-2025 | [Control Flow](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow) | Decision Making (if/else, switch) & Loop Structures |
+| **D5** | 19-Dec-2025 | [Arrays](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays) | 1D Array Traversal, Average, & Max-Min algorithms |
+| **D6** | 20-Dec-2025 | [Methods](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) | Modular Design, Parameterized Methods, Helper Method Patterns |
 
 ### 🟢 Week 2: String Handling & OOP Kickoff
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
 | :--- | :--- | :--- | :--- |
-| **D1** | 22-Dec-2025 | Java Strings | Immutability, String Pool, & String Manipulation Methods |
-| **D2** | 23-Dec-2025 | Built-in API | Common Built-in Functions & Java Date/Time Library |
-| **D3** | 24-Dec-2025 | Logic Building | *Scenario-based problems* |
-| **D4** | 26-Dec-2025 | OOP Kickoff | **Eclipse IDE Migration**; Classes & Object Instance Behavior |
-| **D5** | 27-Dec-2025 | Constructors | Default/Parameterized Constructors & Variable Scopes |
+| **D1** | 22-Dec-2025 | [Java Strings](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings) | Immutability, String Pool, & String Manipulation Methods |
+| **D2** | 23-Dec-2025 | [Built-in API](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/Built-In%20Function) | Common Built-in Functions & Java Date/Time Library |
+| **D3** | 24-Dec-2025 | [Logic Building](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based) | *Scenario-based problems* |
+| **D4** | 26-Dec-2025 | OOP Kickoff / [Classes & Object](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/classandobject) | **Eclipse IDE Migration**; Classes & Object Instance Behavior |
+| **D5** | 27-Dec-2025 | [Constructors](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/constructor/levelone) | Default/Parameterized Constructors & Variable Scopes |
 
 ### 🟢 Week 3: OOAD & Data Structure Foundations
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
 | :--- | :--- | :--- | :--- |
-| **D1** | 29-Dec-2025 | Keywords | `this`, `static`, `final`, & `instanceof` Lab Exercises |
-| **D2** | 30-Dec-2025 | Modeling | **Object Modeling**: Entity Identification & SRP Principle |
-| **D3** | 31-Dec-2025 | Inheritance | Parent-Child Relationships & Code Reusability patterns |
-| **D4** | 01-Jan-2026 | OOP Pillars | Encapsulation, Abstract Classes, & Interfaces (IPayable) |
-| **D5** | 02-Jan-2026 | DSA Basics | **LinkedList**: Node structure & *Scenario-based problems* |
-| **D6** | 03-Jan-2026 | DS Basics II | **Stack (LIFO)**, **Queue (FIFO)**, & *Scenario-based problems* |
+| **D1** | 29-Dec-2025 | [Keywords](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction) | `this`, `static`, `final`, & `instanceof` Lab Exercises |
+| **D2** | 30-Dec-2025 | [Modeling](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/objectmodeling) | **Object Modeling**: Entity Identification & SRP Principle |
+| **D3** | 31-Dec-2025 | [Inheritance](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inheritance) | Parent-Child Relationships & Code Reusability patterns |
+| **D4** | 01-Jan-2026 | [OOP Pillars](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation) | Encapsulation, Abstract Classes, & Interfaces (IPayable) |
+| **D5** | 02-Jan-2026 | [DSA Basics](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/linkedlist) | **LinkedList**: Node structure & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day1) |
+| **D6** | 03-Jan-2026 | [DS Basics II](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/stackqueuehashmap) | **Stack (LIFO)**, **Queue (FIFO)**, **Map** & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day2) |
 
 ### 🟢 Week 4: Performance Analysis & Enterprise Modeling
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
 | :--- | :--- | :--- | :--- |
-| **D1** | 05-Jan-2026 | Sorting I | **Bubble & Insertion Sort** & *Scenario-based problems* |
-| **D2** | 06-Jan-2026 | Searching | **Linear & Binary Search** & *Scenario-based problems* |
-| **D3** | 07-Jan-2026 | Complexity | **Big-O Notation** & *Scenario-based problems* |
-| **D4** | 08-Jan-2026 | Systems I | *Scenario-based problems* |
-| **D5** | 09-Jan-2026 | Generics | **Java Generics Intro** & *Scenario-based problems* |
+| **D1** | 05-Jan-2026 | [Sorting I](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/sortingalgorithm) | **Bubble & Insertion Sort** & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day3) |
+| **D2** | 06-Jan-2026 | [Searching](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/linearbinarysearch) | **Linear & Binary Search** & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day4) |
+| **D3** | 07-Jan-2026 | Complexity | **Big-O Notation** & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day5) |
+| **D4** | 08-Jan-2026 | [Systems I](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src) | *Scenario-based problems* |
+| **D5** | 09-Jan-2026 | [Generics](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/generics) | **Java Generics Intro** & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day7) |
+| **D6** | 10-Jan-2026 |[System II](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day1)| *Scenario-based problems* |
 
 ### 🟢 Week 5: Advanced Sorting & System Integration
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
 | :--- | :--- | :--- | :--- |
-| **D1** | 12-Jan-2026 | DS Scenarios | *Scenario-based problems* |
-| **D2** | 13-Jan-2026 | System Design | *Scenario-based problems* 
-| **D3** | 15-Jan-2026 | Sorting II | **Merge Sort** & **Quick Sort** & *Scenario-based problems* |
-| **D4** | 16-Jan-2026 | Collections | **Java Collections Intro** & *Scenario-based problems* |
-| **D5** | 17-Jan-2026 | Logic Lab | *Scenario-based problems* |
+| **D1** | 12-Jan-2026 | [DS Scenarios](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day2)) | *Scenario-based problems* |
+| **D2** | 13-Jan-2026 | [System Design](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day3)) | *Scenario-based problems* |
+| **D3** | 15-Jan-2026 | [Sorting II](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/sortingalgorithm) | **Merge Sort** & **Quick Sort** & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day4) |
+| **D4** | 16-Jan-2026 | [Collections](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections) | **Java Collections Intro** & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day5) |
+| **D5** | 17-Jan-2026 | [OOPs](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src) / [DSA](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src) | [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day6) |
 
 ### 🟢 Week 6: Modern Java & Advanced DSA
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
 | :--- | :--- | :--- | :--- |
-| **D1** | 19-Jan-2026 | Java Streams | Java Streams & *Scenario-based problems* |
-| **D2** | 20-Jan-2026 | Exceptions |  Robust **Exception Handling** strategies & *Scenario-based problems* |
-| **D3** | 21-Jan-2026 | Validation | **Regex** & **JUnit** & **Binary Search Trees (BST)** *Scenario-based problems* |
-| **D4** | 22-Jan-2026 | Metadata | **Annotations & Reflection** & **AVL Trees** *Scenario-based problems* |
-| **D5** | 23-Jan-2026 | CSV Data Handling | CSV Data Handling & *Scenario-based problems* |
-| **D6** | 24-Jan-2026 | JSON Data | JSON Data & *Scenario-based problems* |
+| **D1** | 19-Jan-2026 | [Java Streams](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/streams) | Java Streams & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day7) |
+| **D2** | 20-Jan-2026 | [Exceptions](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/exceptions) |  Robust **Exception Handling** strategies & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day8) |
+| **D3** | 21-Jan-2026 | [Validation] | [**Regex**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/regex) & [**JUnit**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/junit) & [**Binary Search Trees (BST)** *Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day9) |
+| **D4** | 22-Jan-2026 | Metadata | **[Annotations](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/annotations) & [Reflection](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/reflection)** & [**AVL Trees** *Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day10) |
+| **D5** | 23-Jan-2026 | CSV Data Handling | CSV Data Handling & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBased/src/com/day1) |
+| **D6** | 24-Jan-2026 | JSON Data | JSON Data & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBased/src/com/day2) |
 
 ---
 
