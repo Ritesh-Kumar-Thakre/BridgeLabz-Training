@@ -104,7 +104,7 @@ Worked On:
 
 ---
 
-## 📅 Day 3 – [Algorithm Runtime Analysis & Big-O Notation](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/runtimeanalysis) 
+## 📅 Day 3 – [Algorithm Runtime Analysis & Big-O Notation](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/algorithmanalysis) 
 **(Date: 07-Jan-2026)**
 
 - Studied material:
