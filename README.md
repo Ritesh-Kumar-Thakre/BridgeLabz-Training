@@ -20,6 +20,7 @@
 | **🏗️ Java OOPs** | OOAD, Modeling, & Design Principles | [**java-oops-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice) |
 | **🧩 Java DSA** | Algorithms & Complexity Analysis | [**java-dsa-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice) |
 | **📦 Collections** | Advanced API & Modern Java | [**java-collections-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice) |
+| **🔄 Iostreams** | Java IO Streams, CSV & JSON Practice| [**java-iostreams-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-iostreams-practice) |
 
 ---
 
@@ -80,8 +81,8 @@
 | **D2** | 20-Jan-2026 | [Exceptions](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/exceptions) |  Robust **Exception Handling** strategies & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day8) |
 | **D3** | 21-Jan-2026 | [Validation] | [**Regex**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/regex) & [**JUnit**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/junit) & [**Binary Search Trees (BST)** *Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day9) |
 | **D4** | 22-Jan-2026 | Metadata | **[Annotations](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/annotations) & [Reflection](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/reflection)** & [**AVL Trees** *Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day10) |
-| **D5** | 23-Jan-2026 | CSV Data Handling | CSV Data Handling & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBased/src/com/day1) |
-| **D6** | 24-Jan-2026 | JSON Data | JSON Data & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBased/src/com/day2) |
+| **D5** | 23-Jan-2026 | [CSV Data Handling](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsConcepts/src/com/csvdata) | CSV Data Handling & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBased/src/com/day1) |
+| **D6** | 24-Jan-2026 | [JSON Data](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsConcepts/src/com/jsondata) | JSON Data & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBased/src/com/day2) |
 
 ---
 
