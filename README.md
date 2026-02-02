@@ -4,9 +4,9 @@
 [![Training Partner](https://img.shields.io/badge/Partner-BridgeLabz-red?style=for-the-badge)](https://www.bridgelabz.com/)
 ![Batch](https://img.shields.io/badge/Batch-Batch--1--CG-yellow?style=for-the-badge)
 [![Java Version](https://img.shields.io/badge/Java-21--LTS-orange?style=for-the-badge&logo=openjdk)](https://openjdk.org/projects/jdk/21/)
-![IDE](https://img.shields.io/badge/IDE-Eclipse-blue?style=for-the-badge&logo=eclipse-ide)
-![Version Control](https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github)
-[![Status](https://img.shields.io/badge/Status-Training--Ongoing-brightgreen?style=for-the-badge)]()
+[![IDE](https://img.shields.io/badge/IDE-Eclipse-blue?style=for-the-badge&logo=eclipse-ide)](https://eclipseide.org/)
+[![Version Control](https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
+![Status](https://img.shields.io/badge/Status-Training--Ongoing-brightgreen?style=for-the-badge)
 
 > **"Collaborative. Professional. Result-Oriented."**
 > This repository provides a chronological, day-wise audit of my technical fellowship, ranging from procedural logic to enterprise-grade system architecture and performance-driven data structures.
@@ -21,7 +21,7 @@
 | **🧩 Java DSA** | Algorithms & Complexity Analysis | [**java-dsa-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice) |
 | **📦 Collections** | Advanced API & Modern Java | [**java-collections-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice) |
 | **🔄 Iostreams** | Java IO Streams, CSV & JSON Practice| [**java-iostreams-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-iostreams-practice) |
-| **☕ Java8** | Java-8 Features | [**java8-programming-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice)) |
+| **☕ Java8** | Java-8 Features | [**java8-programming-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice) |
 
 ---
 
@@ -88,7 +88,7 @@
 ### 🟢 Week 7: Java8, Design Patterns and Scenario based problems
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
 | :--- | :--- | :--- | :--- |
-| **D1** | 27-Jan-2026 | [Lambda Expressions](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas) | Lambda Expressions &  Method References|
+| **D1** | 27-Jan-2026 | [Lambda Expressions](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas) | [Lambda Expressions](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas/lambdaexpressions) &  [Method References](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas/methodreferences)|
 ---
 
 ## 🧠 Computational Complexity Benchmark
