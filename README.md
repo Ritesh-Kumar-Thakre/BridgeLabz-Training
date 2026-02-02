@@ -21,6 +21,7 @@
 | **🧩 Java DSA** | Algorithms & Complexity Analysis | [**java-dsa-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice) |
 | **📦 Collections** | Advanced API & Modern Java | [**java-collections-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice) |
 | **🔄 Iostreams** | Java IO Streams, CSV & JSON Practice| [**java-iostreams-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-iostreams-practice) |
+| **☕ Java8** | Java-8 Features | [**java8-programming-practice**]([https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-iostreams-practice](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice)) |
 
 ---
 
@@ -84,6 +85,10 @@
 | **D5** | 23-Jan-2026 | [CSV Data Handling](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsConcepts/src/com/csvdata) | CSV Data Handling & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBased/src/com/day1) |
 | **D6** | 24-Jan-2026 | [JSON Data](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsConcepts/src/com/jsondata) | JSON Data & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBased/src/com/day2) |
 
+### 🟢 Week 7: Java8, Design Patterns and Scenario based problems
+| Day | Date | Focus Topic | Core Implementation / Scenarios |
+| :--- | :--- | :--- | :--- |
+| **D1** | 27-Jan-2026 | [Lambda Expressions](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas) | Lambda Expressions &  Method References|
 ---
 
 ## 🧠 Computational Complexity Benchmark
