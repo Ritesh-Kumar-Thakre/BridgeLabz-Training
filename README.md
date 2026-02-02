@@ -88,7 +88,8 @@
 ### 🟢 Week 7: Java8, Design Patterns and Scenario based problems
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
 | :--- | :--- | :--- | :--- |
-| **D1** | 27-Jan-2026 | [Lambda Expressions](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas) | [Lambda Expressions](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas/lambdaexpressions) &  [Method References](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas/methodreferences)|
+| **D1** | 27-Jan-2026 | [Lambda Expressions](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas) & [Functional Interfaces](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/functionalinterfaces)| Lambda Expressions, Method References and Functional Interfaces|
+
 ---
 
 ## 🧠 Computational Complexity Benchmark
