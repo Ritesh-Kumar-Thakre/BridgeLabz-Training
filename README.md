@@ -21,7 +21,7 @@
 | **🧩 Java DSA** | Algorithms & Complexity Analysis | [**java-dsa-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice) |
 | **📦 Collections** | Advanced API & Modern Java | [**java-collections-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice) |
 | **🔄 Iostreams** | Java IO Streams, CSV & JSON Practice| [**java-iostreams-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-iostreams-practice) |
-| **☕ Java8** | Java-8 Features | [**java8-programming-practice**]([https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-iostreams-practice](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice)) |
+| **☕ Java8** | Java-8 Features | [**java8-programming-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice)) |
 
 ---
 
