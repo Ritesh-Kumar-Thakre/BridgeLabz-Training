@@ -1,4 +1,4 @@
-package com.interfaces.defaultmethods.smartvehicle;
+package com.functionalinterfaces.defaultinterface.smartvehicle;
 
 public class ElectricScooter implements Vehicle {
     private String brand;

@@ -1,4 +1,4 @@
-package com.interfaces.defaultmethods.smartvehicle;
+package com.functionalinterfaces.defaultinterface.smartvehicle;
 
 public class PetrolCar implements Vehicle {
 

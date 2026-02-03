@@ -1,4 +1,4 @@
-package com.interfaces.defaultmethods.dataexport;
+package com.functionalinterfaces.defaultinterface.dataexport;
 
 import java.util.Scanner;
 
