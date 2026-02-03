@@ -31,14 +31,42 @@
 - Passing behavior as arguments
 
 #### 🔸 Functional Interfaces
-- @FunctionalInterface annotation
-- Single Abstract Method (SAM)
-- Common interfaces:
-  - Predicate  
-  - Consumer  
-  - Supplier  
-  - Function
+- Basic Interfaces
+- Functionalinterface
+- Static Interfaces
+- Default Interface
+- Marker Interfaces
 
 ---
 
+## 📅 Day 2 — [Stream API](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streamapiproblems) & [Collectors](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors)
+**(Date: 28-Jan-2026)**
+
+
+### 📘 Materials Studied
+
+- 03 — Stream API 
+- 04 — Collectors 
+
+### ✅ Assignments Submitted
+
+- 03 — Submission of Stream API
+- 04 — Submission of Collectors 
+
+### 🔹 Topics Covered
+
+#### 🔸 Stream API 
+- filter()
+- sorted()
+- limit()
+- averagingDouble()
+- forEach() Method
+
+#### 🔸 Collectors 
+- groupingBy()
+- toMap()
+- summingDouble()
+- Collectors.summarizingInt()
+
+---
 📌 *This branch focuses on modern Java features introduced in Java 8 to improve code expressiveness and performance.*
