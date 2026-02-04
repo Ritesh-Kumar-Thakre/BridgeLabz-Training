@@ -39,7 +39,7 @@
 
 ---
 
-## 📅 Day 2 — [Stream API](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streamapiproblems) & [Collectors](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors)
+## 📅 Day 2 — [Stream API](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streamapiproblems), [Collectors](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors) & [Scenario-Based Questions](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/ScenarioBased/src/com/day1)
 **(Date: 28-Jan-2026)**
 
 
@@ -67,6 +67,13 @@
 - toMap()
 - summingDouble()
 - Collectors.summarizingInt()
+
+#### 🔸 Scenario-Based Questions
+- [Employee problem](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/ScenarioBased/src/com/day1/employee)
+- [Student problem](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/ScenarioBased/src/com/day1/student)
+- [Lambda problems](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/ScenarioBased/src/com/day1/lambdas)
+- [Functionalinterfaces problems](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/ScenarioBased/src/com/day1/functionalinterfaces)
+- [Scenarios problems](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/ScenarioBased/src/com/day1/scenarios)
 
 ---
 📌 *This branch focuses on modern Java features introduced in Java 8 to improve code expressiveness and performance.*
