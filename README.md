@@ -37,6 +37,7 @@
 | **D4** | 18-Dec-2025 | [Control Flow](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow) | Decision Making (if/else, switch) & Loop Structures |
 | **D5** | 19-Dec-2025 | [Arrays](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays) | 1D Array Traversal, Average, & Max-Min algorithms |
 | **D6** | 20-Dec-2025 | [Methods](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) | Modular Design, Parameterized Methods, Helper Method Patterns |
+>Branch created:- `core-java-practice`
 
 ### 🟢 Week 2: String Handling & OOP Kickoff
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
@@ -46,6 +47,7 @@
 | **D3** | 24-Dec-2025 | [Logic Building](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based) | *Scenario-based problems* |
 | **D4** | 26-Dec-2025 | OOP Kickoff / [Classes & Object](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/classandobject) | **Eclipse IDE Migration**; Classes & Object Instance Behavior |
 | **D5** | 27-Dec-2025 | [Constructors](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/constructor/levelone) | Default/Parameterized Constructors & Variable Scopes |
+>Branch created:- `java-oops-practice`
 
 ### 🟢 Week 3: OOAD & Data Structure Foundations
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
@@ -56,6 +58,7 @@
 | **D4** | 01-Jan-2026 | [OOP Pillars](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation) | Encapsulation, Abstract Classes, & Interfaces (IPayable) |
 | **D5** | 02-Jan-2026 | [DSA Basics](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/linkedlist) | **LinkedList**: Node structure & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day1) |
 | **D6** | 03-Jan-2026 | [DS Basics II](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/stackqueuehashmap) | **Stack (LIFO)**, **Queue (FIFO)**, **Map** & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day2) |
+>Branch created:- `dsa-practice`
 
 ### 🟢 Week 4: Performance Analysis & Enterprise Modeling
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
@@ -66,6 +69,7 @@
 | **D4** | 08-Jan-2026 | [Systems I](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src) | *Scenario-based problems* |
 | **D5** | 09-Jan-2026 | [Generics](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/generics) | **Java Generics Intro** & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day7) |
 | **D6** | 10-Jan-2026 |[System II](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day1)| *Scenario-based problems* |
+>Branch created:- `java-collections-practice`
 
 ### 🟢 Week 5: Advanced Sorting & System Integration
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
@@ -85,13 +89,15 @@
 | **D4** | 22-Jan-2026 | Metadata | **[Annotations](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/annotations) & [Reflection](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/reflection)** & [**AVL Trees** *Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBased/src/day10) |
 | **D5** | 23-Jan-2026 | [CSV Data Handling](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsConcepts/src/com/csvdata) | CSV Data Handling & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBased/src/com/day1) |
 | **D6** | 24-Jan-2026 | [JSON Data](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsConcepts/src/com/jsondata) | JSON Data & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBased/src/com/day2) |
+>Branch created:- `java-iostreams-practice`
 
 ### 🟢 Week 7: Java8, Design Patterns and Scenario based problems
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
 | :--- | :--- | :--- | :--- |
 | **D1** | 27-Jan-2026 | [Lambda Expressions](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas) & [Functional Interfaces](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/functionalinterfaces)| Lambda Expressions, Method References and Functional Interfaces|
 | **D2** | 28-Jan-2026 | [Stream API](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streamapiproblems) &  [Collectors](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors) | Stream, forEach(), Collectors, [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/ScenarioBased/src/com/day1) |
-
+>Branch created:- `java8-programming-practice`
+>Branch created:- `java-design-pattern-practice`
 ---
 
 ## 🧠 Computational Complexity Benchmark
