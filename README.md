@@ -18,10 +18,11 @@
 | :--- | :--- | :--- |
 | **🌱 Core Java** | Fundamentals & Procedural Logic | [**core-java-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice) |
 | **🏗️ Java OOPs** | OOAD, Modeling, & Design Principles | [**java-oops-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice) |
-| **🧩 Java DSA** | Algorithms & Complexity Analysis | [**java-dsa-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-dsa-practice) |
+| **🧩 Java DSA** | Algorithms & Complexity Analysis | [**dsa-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice) |
 | **📦 Collections** | Advanced API & Modern Java | [**java-collections-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice) |
 | **🔄 Iostreams** | Java IO Streams, CSV & JSON Practice| [**java-iostreams-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-iostreams-practice) |
 | **☕ Java8** | Java-8 Features | [**java8-programming-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice) |
+| **🎨 Design Principles** | Design Principles, Pattern, Multithreading | [**java-design-pattern-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-design-pattern-practice) |
 
 ---
 
