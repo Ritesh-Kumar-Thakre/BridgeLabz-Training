@@ -9,7 +9,7 @@
 ---
 
 ## 📅 Day 1 — [LinkedList Introduction](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/linkedlist)
-**(02-Jan-2026)**
+**(Date: 02-Jan-2026)**
 
 Material:
 - 01 — Data Structure Introduction & LinkedList
@@ -32,7 +32,7 @@ Assignment Submitted:
 ---
 
 ## 📅 Day 2 — [Stack, Queue, HashMap & Hashing](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/stackqueuehashmap) 
-**(03-Jan-2026)**
+**(Date: 03-Jan-2026)**
 
 Material:
 - 02 — Stack, Queue, HashMap & Hashing Function
@@ -60,7 +60,7 @@ Assignment Submitted:
 ---
 
 ## 📅 Day 1 — [Sorting Algorithms](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/sortingalgorithm)
-**(05-Jan-2026)**
+**(Date: 05-Jan-2026)**
 
 Material:
 - 03 — Sorting Algorithms
@@ -81,7 +81,7 @@ Assignment Submitted:
 ---
 
 ## 📅 Day 2 — [Linear & Binary Search + Advanced IO Utilities](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/dsa/linearbinarysearch)
-**(06-Jan-2026)**
+**(Date: 06-Jan-2026)**
 
 Material:
 - 04 & 05 — Linear Search and Binary Search
