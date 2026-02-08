@@ -9,7 +9,7 @@
 ---
 
 ## 📅 Day 1 — Orientation & Java Fundamentals Overview  
-**(15-Dec-2025)**
+**(Date: 15-Dec-2025)**
 
 Activities:
 - BridgeLabz Training Orientation & Program Briefing
@@ -39,7 +39,7 @@ Assignment Posted:
 ---
 
 ## 📅 Day 2 — Git Setup, Repo Structure & Programming Elements
-**(16-Dec-2025)**
+**(Date: 16-Dec-2025)**
 
 - Configured Git & GitHub repository
 - Created project folder structure
@@ -72,7 +72,7 @@ Material / Assignment:
 ---
 
 ## 📅 Day 3 — [Programming Elements](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)  
-**(17-Dec-2025)**
+**(Date: 17-Dec-2025)**
 
 Topics:
 - Variables & primitive data types
@@ -86,7 +86,7 @@ Completed:
 ---
 
 ## 📅 Day 4 — [Control Flow](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)  
-**(18-Dec-2025)**
+**(Date: 18-Dec-2025)**
 
 Covered:
 - if, else-if, switch
@@ -107,7 +107,7 @@ Assignment:
 ---
 
 ## 📅 Day 5 — [Arrays](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
-**(19-Dec-2025)**
+**(Date: 19-Dec-2025)**
 
 Concepts:
 - 1D arrays
@@ -123,7 +123,7 @@ Assignment:
 ---
 
 ## 📅 Day 6 — [Methods](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
-**(20-Dec-2025)**
+**(Date: 20-Dec-2025)**
 
 Topics:
 - Method declaration & parameters
@@ -144,7 +144,7 @@ Assignment:
 ---
 
 ## 📅 Day 1 — [Java Strings](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
-**(22-Dec-2025)**
+**(Date: 22-Dec-2025)**
 
 Concepts:
 - String immutability
@@ -159,7 +159,7 @@ Assignment:
 ---
 
 ## 📅 Day 2 — [Extras: Built-in Functions & String Handling](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
-**(23-Dec-2025)**
+**(Date: 23-Dec-2025)**
 
 Practiced:
 - Common Built-in Functions
@@ -177,7 +177,7 @@ Assignments:
 ---
 
 ## 📅 Day 3 — [Scenario-Based Core Java Problems - Day1](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day1)
-**(24-Dec-2025)**
+**(Date: 24-Dec-2025)**
 
 Problems Implemented:
 ```
@@ -195,7 +195,7 @@ Concepts Used:
 ---
 
 ## 📅 Day 4 — [Advanced Scenario-Based Problems - Day2](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day2) + OOP Kickoff  
-**(26-Dec-2025)**
+**(Date: 26-Dec-2025)**
 
 Problems:
 ```
@@ -221,7 +221,7 @@ java-oops-practice
 ---
 
 ## 📅 Day 1 — [Scenario-Based Core Java Problems - Day3](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day3)
-**(29-Dec-2025)**
+**(Date: 29-Dec-2025)**
 
 Problems:
 ```
@@ -235,7 +235,7 @@ Problems:
 ---
 
 ## 📅 Day 2 — [Scenario-Based Core Java Problems - Day4](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day4)
-**(30-Dec-2025)**
+**(Date: 30-Dec-2025)**
 
 Problems:
 ```
@@ -249,7 +249,7 @@ Problems:
 ---
 
 ## 📅 Day 3 — [Scenario-Based Core Java Problems - Day5](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice/scenario-based/day5)
-**(31-Dec-2025)**
+**(Date: 31-Dec-2025)**
 
 Problems:
 ```
