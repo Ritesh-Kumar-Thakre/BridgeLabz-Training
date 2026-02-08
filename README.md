@@ -55,3 +55,29 @@ Design principles tell you how to design clean code,
 Design patterns give you proven solutions to recurring design problems.
 ```
 ---
+
+## 🟢 Week 8 — Java Multithreading
+
+---
+
+## 📅 Day 1 — [Java Multithreading](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading) 
+**(Date: 02-Feb-2026)**
+
+
+### 📘 Materials Studied
+
+- 03 — Java Multithreading
+
+### ✅ Assignments Submitted
+
+- 03 — Java Multithreading
+
+### 🔹 Topics Covered
+- Basics of Threading
+- Creation of Threads
+- Thread Lifecycle, Methods
+- Synchronization
+- Deadlock
+- wait / notify
+
+---
