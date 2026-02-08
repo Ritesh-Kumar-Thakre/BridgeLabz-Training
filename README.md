@@ -100,12 +100,13 @@
 >Branch created:- `java8-programming-practice`
 >Branch created:- `java-design-pattern-practice`
 
-### 🟢 Week 8: Java Multithreading
+### 🟢 Week 8: Java Multithreading & MySQL & JDBC
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
 | :--- | :--- | :--- | :--- |
 | **D1** | 02-Feb-2026 | [Java Multithreading](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)| Multithreading |
 | **D2** | 03-Feb-2026 | [System I]() | *Scenario-based problems* |
 | **D3** | 04-Feb-2026 | Revision and Practice | *Scenario-based problems*, Extra Problems |
+| **D4** | 06-Feb-2026 | MySQL & JDBC | SQL, MySQL, JDBC |
 
 ---
 
