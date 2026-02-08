@@ -9,7 +9,7 @@
 ---
 
 ## 📅 Day 1 — OOP Fundamentals + Eclipse Migration  
-**(26-Dec-2025)**
+**(Date: 26-Dec-2025)**
 
 Activities:
 - Installed & configured **Eclipse IDE**
@@ -35,7 +35,7 @@ Material:
 ---
 
 ## 📅 Day 2 — [Constructors, Variables & Access Modifiers](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/constructor/levelone)  
-**(27-Dec-2025)**
+**(Date: 27-Dec-2025)**
 
 Understood:
 - Constructors & object initialization
@@ -60,7 +60,7 @@ Material:
 ---
 
 ## 📅 Day 1 — [this, static, final & instanceof](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction) 
-**(29-Dec-2025)**
+**(Date: 29-Dec-2025)**
 
 Practiced:
 - this keyword
@@ -74,7 +74,7 @@ Material:
 ---
 
 ## 📅 Day 2 — [Object Modeling & Design Principles](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/objectmodeling)  
-**(30-Dec-2025)**
+**(Date: 30-Dec-2025)**
 
 Followed structured design approach:
 
@@ -97,7 +97,7 @@ Assignment:
 ---
 
 ## 📅 Day 3 — [Inheritance Concepts](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inheritance)
-**(31-Dec-2025)**
+**(Date: 31-Dec-2025)**
 
 Concepts Practiced:
 - Parent → Child relationship
@@ -122,7 +122,7 @@ Scenario-Based Problems:
 ---
 
 ## 📅 Day 4 — [Encapsulation, Abstraction, Interface & Polymorphism](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation)  
-**(01-Jan-2026)**
+**(Date: 01-Jan-2026)**
 
 Followed **OOP Scenario Solving Approach**:
 
@@ -151,7 +151,7 @@ Assignment Submitted:
 ---
 
 ## 📅 Day 5 — [Advanced Enterprise-Level OOP Projects - Day1](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day1)
-**(02-Jan-2026)**
+**(Date: 02-Jan-2026)**
 
 Projects Designed:
 ```
@@ -174,7 +174,7 @@ Concepts Applied:
 ---
 
 ## 📅 Day 6 — [Advanced Enterprise-Level OOP Projects - Day2](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day2)
-**(03-Jan-2026)**
+**(Date: 03-Jan-2026)**
 
 Systems Implemented:
 ```
@@ -194,7 +194,7 @@ Applied:
 # 🟢 Week 4 — More Scenario‑Based Problems
 
 ## 📅 Day 1 — [Advanced Enterprise-Level OOP Projects - Day3](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day3)
-**(05-Jan-2026)**
+**(Date: 05-Jan-2026)**
 
 Systems Implemented:
 ```
@@ -205,7 +205,7 @@ Systems Implemented:
 ---
 
 ## 📅 Day 2 — [Advanced Enterprise-Level OOP Projects - Day4](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day4)
-**(06-Jan-2026)**
+**(Date: 06-Jan-2026)**
 
 Systems Implemented:
 ```
@@ -218,7 +218,7 @@ Systems Implemented:
 ---
 
 ## 📅 Day 3 — [Advanced Enterprise-Level OOP Projects - Day5](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day5) 
-**(07-Jan-2026)**
+**(Date: 07-Jan-2026)**
 
 Systems Implemented:
 ```
@@ -230,7 +230,7 @@ Systems Implemented:
 ---
 
 ## 📅 Day 4 — [Advanced Enterprise-Level OOP Projects - Day6](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day6)
-**(08-Jan-2026)**
+**(Date: 08-Jan-2026)**
 
 Systems Implemented:
 ```
@@ -241,7 +241,7 @@ Systems Implemented:
 ---
 
 ## 📅 Day 5 — [Advanced Enterprise-Level OOP Projects - Day7](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day7) 
-**(09-Jan-2026)**
+**(Date: 09-Jan-2026)**
 
 Systems Implemented:
 ```
@@ -255,7 +255,7 @@ Systems Implemented:
 # 🟢 Week 5 — More Scenario‑Based Problems
 
 ## 📅 Day 1 — [Advanced Enterprise-Level OOP Projects - Day8](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day8)
-**(12-Jan-2026)**
+**(Date: 12-Jan-2026)**
 
 Systems Implemented:
 ```
@@ -267,7 +267,7 @@ Systems Implemented:
 ---
 
 ## 📅 Day 2 — [Advanced Enterprise-Level OOP Projects - Day9](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day9)
-**(13-Jan-2026)**
+**(Date: 13-Jan-2026)**
 
 Systems Implemented:
 ```
@@ -278,7 +278,7 @@ Systems Implemented:
 ---
 
 ## 📅 Day 3 — [Advanced Enterprise-Level OOP Projects - Day10](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day10)
-**(17-Jan-2026)**
+**(Date: 17-Jan-2026)**
 
 Systems Implemented:
 ```
@@ -291,7 +291,7 @@ Systems Implemented:
 # 🟢 Week 6 — More Scenario‑Based Problems
 
 ## 📅 Day 1 — [Advanced Enterprise-Level OOP Projects - Day11](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/day11)
-**(19-Jan-2026)**
+**(Date: 19-Jan-2026)**
 
 Systems Implemented:
 ```
