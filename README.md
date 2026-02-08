@@ -13,7 +13,7 @@
 
 ---
 
-## 📂 Repository Architecture
+## 🌿 Branch Usage Guide
 | Module | Primary Focus | Repository Branch |
 | :--- | :--- | :--- |
 | **🌱 Core Java** | Fundamentals & Procedural Logic | [**core-java-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/core-java-practice) |
@@ -124,10 +124,52 @@
 ---
 
 ## 🛠️ Professional Skill Matrix
-* **Development:** Java 21 LTS, OpenJDK, Eclipse IDE, Notepad++.
-* **Core Skills:** OOAD, SOLID Principles (SRP), Clean Code Standards.
-* **Algorithms:** Bubble, Insertion, Merge, Quick Sort; Binary Search; BST & AVL Trees.
-* **Java Utils:** Stream API, I/O Streams (BufferedReader), Regex, JUnit 5, Reflection API.
+**Programming & Language Proficiency**
+* Java (Core → Advanced): Java 21 (LTS), Java 8 Features (Lambda, Streams, Functional Interfaces)
+* Object-Oriented Programming: OOAD, Encapsulation, Inheritance, Polymorphism, Abstraction
+* Design Principles: SOLID (SRP, OCP awareness), Clean Code, Modular Design
+
+**Data Structures & Algorithms**
+* Linear Structures: Arrays, LinkedList (Singly, Doubly, Circular), Stack, Queue
+* Non-Linear Structures: Binary Search Tree (BST), AVL Tree
+* Algorithms:
+  - Sorting: Bubble, Insertion, Selection, Merge, Quick
+  - Searching: Linear Search, Binary Search
+* Complexity Analysis: Time & Space Complexity, Big-O Notation
+
+**Java Standard Libraries & APIs**
+* Collections Framework: List, Set, Map, Comparator, Comparable
+* Stream API: filter, map, reduce, collect, forEach
+* Generics: Type safety, bounded types
+* I/O Streams: BufferedReader, FileReader, FileInputStream, Object Streams
+* Regex: Pattern & Matcher for validation and parsing
+* Testing: JUnit 5 (unit testing fundamentals)
+* Reflection & Annotations: Runtime inspection, metadata processing
+
+**Backend & Persistence Fundamentals**
+* Database: MySQL (CRUD, basic queries)
+* JDBC: Driver setup, connections, prepared statements
+* CSV & JSON Processing: Structured data ingestion & export (Gson/Jackson)
+
+**System Design & Problem Solving**
+* Scenario-based real-world system modeling
+* Entity identification & responsibility mapping
+* Interface-driven design
+* Exception-safe program flow
+* Reusable helper methods & layered logic
+
+---
+
+## 🎯 Learning Outcomes
+
+By the end of this training program, I am able to:
+
+- Design object-oriented systems using real-world requirements
+- Implement efficient data structures and analyze algorithm performance
+- Apply Java Collections, Streams, and Generics for scalable solutions
+- Process structured data using CSV, JSON, and I/O Streams
+- Write clean, modular, and testable Java code
+- Use Git & GitHub following professional branching strategies
 
 ---
 
