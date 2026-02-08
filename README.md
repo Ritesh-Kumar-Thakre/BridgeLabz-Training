@@ -104,6 +104,7 @@
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
 | :--- | :--- | :--- | :--- |
 | **D1** | 02-Feb-2026 | [Java Multithreading](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)| Multithreading |
+| **D2** | 03-Feb-2026 | [System I]() | *Scenario-based problems* |
 
 ---
 
