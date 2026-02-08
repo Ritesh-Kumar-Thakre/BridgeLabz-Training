@@ -23,6 +23,7 @@
 | **🔄 Iostreams** | Java IO Streams, CSV & JSON Practice| [**java-iostreams-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-iostreams-practice) |
 | **☕ Java8** | Java-8 Features | [**java8-programming-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice) |
 | **🎨 Design Principles** | Design Principles, Pattern, Multithreading | [**java-design-pattern-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-design-pattern-practice) |
+| **💾 DBMS-JDBC** | MySQL, DBMS, JDBS | [**dbms-jdbc-practice**](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dbms-jdbc-practice) |
 
 ---
 
