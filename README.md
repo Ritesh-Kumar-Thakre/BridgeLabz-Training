@@ -9,7 +9,7 @@
 ---
 
 ## 📅 Day 1 – [Java Generics](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/generics)
-**(09-Jan-2026)**
+**(Date: 09-Jan-2026)**
 
 ### Material
 - 01 – Java Generics
