@@ -108,6 +108,7 @@
 | **D3** | 04-Feb-2026 | Revision and Practice | *Scenario-based problems*, Extra Problems |
 | **D4** | 06-Feb-2026 | MySQL & JDBC | SQL, MySQL, JDBC |
 | **D5** | 07-Feb-2026 | Power Skills Session  | communication skills, body language, corporate behaviour |
+>Branch created:- `dbms-jdbc-practice`
 
 ---
 
