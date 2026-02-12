@@ -115,6 +115,7 @@
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
 | :--- | :--- | :--- | :--- |
 | **D1** | 09-Feb-2026 | [JDBC](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/resources/com/jdbc)| JDBC |
+| **D2** | 10-Feb-2026 | Mock Test | Week 1 to Week 8 combined problems |
 ---
 
 ## 🧠 Computational Complexity Benchmark
