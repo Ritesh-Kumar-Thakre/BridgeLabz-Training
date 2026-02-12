@@ -111,6 +111,10 @@
 | **D5** | 07-Feb-2026 | Power Skills Session  | Session & [*Scenario-based problems*]() |
 >Branch created:- `dbms-jdbc-practice`
 
+### 🟢 Week 9: DBMS MySQL - JDBC 
+| Day | Date | Focus Topic | Core Implementation / Scenarios |
+| :--- | :--- | :--- | :--- |
+| **D1** | 09-Feb-2026 | [JDBC](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/resources/com/jdbc)| JDBC |
 ---
 
 ## 🧠 Computational Complexity Benchmark
