@@ -48,7 +48,7 @@
 
 ---
 
-## 📅 Day 2 — [Scenario-based problems]() 
+## 📅 Day 2 — [Scenario-based problems](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/ScenarioBased/src/com/day1) 
 **(Date: 07-Feb-2026)**
 ```
 🏥 Hospital Management System (JDBC + MySQL)
