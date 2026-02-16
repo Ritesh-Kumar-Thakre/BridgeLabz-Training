@@ -100,7 +100,7 @@
 
 ---
 
-## 📅 Day 3 — [JDBC](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/resources/com/jdbc) 
+## 📅 Day 3 — [JDBC](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/java/com/jdbc) 
 **(Date: 09-Feb-2026)**
 
 ### ✅ Assignments Submitted
