@@ -108,14 +108,15 @@
 | **D2** | 03-Feb-2026 | [System I](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scenario-based-codebase/ScenarioBased/src/com/multithreading) | *Scenario-based problems* |
 | **D3** | 04-Feb-2026 | Revision and Practice | *Scenario-based problems*, Extra Problems |
 | **D4** | 06-Feb-2026 | MySQL & JDBC | [MySQL operations](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/resources/com/mysql), JDBC |
-| **D5** | 07-Feb-2026 | Power Skills Session  | Session & [*Scenario-based problems*]() |
+| **D5** | 07-Feb-2026 | Power Skills Session  | Session & [*Scenario-based problems*](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/ScenarioBased/src/com/day1) |
 >Branch created:- `dbms-jdbc-practice`
 
 ### 🟢 Week 9: DBMS MySQL - JDBC 
 | Day | Date | Focus Topic | Core Implementation / Scenarios |
 | :--- | :--- | :--- | :--- |
-| **D1** | 09-Feb-2026 | [JDBC](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/resources/com/jdbc)| JDBC |
+| **D1** | 09-Feb-2026 | [JDBC](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/java/com/jdbc)| JDBC |
 | **D2** | 10-Feb-2026 | Mock Test | Week 1 to Week 8 combined problems |
+| **D3 to D6** | (11 to 14)-Feb-2026 | Scenario problems | solving extra problem for practice |
 ---
 
 ## 🧠 Computational Complexity Benchmark
