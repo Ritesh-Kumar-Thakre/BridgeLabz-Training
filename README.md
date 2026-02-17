@@ -85,5 +85,3 @@
 #### 🔸 [Java 8 Logical Questions](https://github.com/Ritesh-Kumar-Thakre/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/ScenarioBased/src/com/day2/java8logicalquestions)
 #### 🔸 Java Stream
 #### 🔸 Java 8 Conversion Logical Questions
-
-📌 *This branch focuses on modern Java features introduced in Java 8 to improve code expressiveness and performance.*
